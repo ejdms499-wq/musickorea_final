@@ -1,0 +1,3920 @@
+{
+  "defaultId": "preorder-1",
+  "common": {
+    "shipping": [
+      "배송 방법: CJ대한통운 / 한진택배",
+      "배송 지역: 전국",
+      "배송 기간: 결제 확인 후 보통 영업일 기준 2~3일",
+      "일반상품과 예약상품을 함께 주문하면 예약상품 입고 일정에 맞춰 출고될 수 있습니다."
+    ],
+    "returns": [
+      "상품 수령 후 7일 이내 교환·반품 요청이 가능합니다.",
+      "개봉·사용·훼손으로 상품 가치가 감소한 경우 교환·반품이 제한될 수 있습니다.",
+      "단순 변심 또는 버전 교환에 따른 배송비는 구매자 부담입니다."
+    ]
+  },
+  "pages": {
+    "hero-txt": {
+      "id": "hero-txt",
+      "kind": "banner",
+      "section": "메인 이벤트",
+      "name": "TOMORROW X TOGETHER - JP 5th SINGLE 'Setsuna Hanabi'",
+      "image": "img/banner/txt_setsuna_hanabi.webp",
+      "gallery": [
+        "img/banner/txt_setsuna_hanabi.webp"
+      ],
+      "description": "메인 상단 이벤트 배너에서 선택한 콘텐츠입니다.",
+      "theme": "#35669b",
+      "verifiedOriginal": false
+    },
+    "hero-evan": {
+      "id": "hero-evan",
+      "kind": "banner",
+      "section": "메인 이벤트",
+      "name": "EVAN - DEATH OF ME",
+      "image": "img/banner/evan_death_of_me.webp",
+      "gallery": [
+        "img/banner/evan_death_of_me.webp"
+      ],
+      "description": "메인 상단 이벤트 배너에서 선택한 콘텐츠입니다.",
+      "theme": "#ff2d49",
+      "verifiedOriginal": false
+    },
+    "hero-hynn": {
+      "id": "hero-hynn",
+      "kind": "banner",
+      "section": "메인 이벤트",
+      "name": "HYNN - 여름길",
+      "image": "img/banner/hynn_summer_road.webp",
+      "gallery": [
+        "img/banner/hynn_summer_road.webp"
+      ],
+      "description": "메인 상단 이벤트 배너에서 선택한 콘텐츠입니다.",
+      "theme": "#c3dddd",
+      "verifiedOriginal": false
+    },
+    "event-evan-full": {
+      "id": "event-evan-full",
+      "kind": "product",
+      "section": "뮤직코리아 이벤트상품",
+      "name": "에반(EVAN) - DEATH OF ME 일반반(세트) + 위버스반 합본",
+      "artist": "에반(EVAN)",
+      "image": "img/event/evan_full_set.webp",
+      "gallery": [
+        "img/event/evan_full_set.webp"
+      ],
+      "price": 53200,
+      "originalPrice": 66400,
+      "discount": 20,
+      "badges": [],
+      "notice": "뮤직코리아 예약특전 - 예약 판매 기간 내 EVAN 1st Mini Album 구매 시 특전 증정",
+      "period": "08월 10일 11:00 ~ 09월 06일 23:59",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 뮤직코리아 이벤트상품 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "originalUrl": "https://www.musickorea.asia/Product/Detail/view/pid/226903/cid/1890",
+      "productCode": "8809704435833",
+      "releaseDate": "2026-09-07",
+      "media": "CD+QR Card",
+      "salePeriod": "08월 10일 11:00 ~ 09월 06일 23:59",
+      "verifiedOriginal": false
+    },
+    "event-evan-two": {
+      "id": "event-evan-two",
+      "kind": "product",
+      "section": "뮤직코리아 이벤트상품",
+      "name": "에반(EVAN) - DEATH OF ME [EXPLOSION Ver. / NATURAL Ver.] 2종세트",
+      "artist": "에반(EVAN)",
+      "image": "img/event/evan_two_set.webp",
+      "gallery": [
+        "img/event/evan_two_set.webp"
+      ],
+      "price": 41800,
+      "originalPrice": 52200,
+      "discount": 20,
+      "badges": [],
+      "notice": "뮤직코리아 예약특전 - 예약 판매 기간 내 EVAN 1st Mini Album 구매 시 특전 증정",
+      "period": "08월 10일 11:00 ~ 09월 06일 23:59",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 뮤직코리아 이벤트상품 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "originalUrl": "https://www.musickorea.asia/Product/Detail/view/pid/226899/cid/1890",
+      "productCode": "8809704435833",
+      "releaseDate": "2026-09-07",
+      "media": "CD",
+      "salePeriod": "08월 10일 11:00 ~ 09월 06일 23:59",
+      "verifiedOriginal": false
+    },
+    "event-evan-random": {
+      "id": "event-evan-random",
+      "kind": "product",
+      "section": "뮤직코리아 이벤트상품",
+      "name": "에반(EVAN) - DEATH OF ME [EXPLOSION Ver. / NATURAL Ver.] 커버랜덤",
+      "artist": "에반(EVAN)",
+      "image": "img/event/evan_random.webp",
+      "gallery": [
+        "img/event/evan_random.webp"
+      ],
+      "price": 20900,
+      "originalPrice": 26100,
+      "discount": 20,
+      "badges": [],
+      "notice": "뮤직코리아 예약특전 - 예약 판매 기간 내 EVAN 1st Mini Album 구매 시 특전 증정",
+      "period": "08월 10일 11:00 ~ 09월 06일 23:59",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 뮤직코리아 이벤트상품 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "originalUrl": "https://www.musickorea.asia/Product/Detail/view/pid/226895/cid/1890",
+      "productCode": "8809704435833",
+      "releaseDate": "2026-09-07",
+      "media": "CD",
+      "salePeriod": "08월 10일 11:00 ~ 09월 06일 23:59",
+      "verifiedOriginal": false
+    },
+    "event-txt-standard": {
+      "id": "event-txt-standard",
+      "kind": "product",
+      "section": "뮤직코리아 이벤트상품",
+      "name": "TOMORROW X TOGETHER - JP 5th SINGLE ’Setsuna Hanabi’ (Standard Edition)",
+      "artist": "투모로우바이투게더(TOMORROW X TOGETHER)",
+      "image": "img/event/txt_standard.webp",
+      "gallery": [
+        "img/event/txt_standard.webp"
+      ],
+      "price": 23500,
+      "originalPrice": 28900,
+      "discount": 19,
+      "badges": [],
+      "notice": "뮤직코리아 예약특전 - 예약 판매 기간 내 구매 시 특전 증정",
+      "period": "08월 10일 11:00 ~ 09월 06일 23:59",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 뮤직코리아 이벤트상품 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "originalUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227215/cid/1890",
+      "productCode": "4571675465624",
+      "releaseDate": "2026-08-19",
+      "media": "CD",
+      "salePeriod": "08월 20일 11:00 ~ 08월 26일 23:59",
+      "detailInfo": [
+        "TRACK LIST 추후 공개"
+      ],
+      "verifiedOriginal": false
+    },
+    "event-txt-special": {
+      "id": "event-txt-special",
+      "kind": "product",
+      "section": "뮤직코리아 이벤트상품",
+      "name": "TOMORROW X TOGETHER - JP 5th SINGLE ’Setsuna Hanabi’ (Special Edition)",
+      "artist": "투모로우바이투게더(TOMORROW X TOGETHER)",
+      "image": "img/event/txt_special.webp",
+      "gallery": [
+        "img/event/txt_special.webp"
+      ],
+      "price": 38400,
+      "originalPrice": 47400,
+      "discount": 19,
+      "badges": [],
+      "notice": "뮤직코리아 예약특전 - 예약 판매 기간 내 구매 시 특전 증정",
+      "period": "08월 10일 11:00 ~ 09월 06일 23:59",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 뮤직코리아 이벤트상품 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "originalUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227219/cid/1890",
+      "productCode": "4571675465600",
+      "releaseDate": "2026-08-19",
+      "media": "CD",
+      "salePeriod": "08월 20일 11:00 ~ 08월 26일 23:59",
+      "detailInfo": [
+        "Special ZIP Pack (W 300mm x H 320mm)"
+      ],
+      "verifiedOriginal": false
+    },
+    "event-txt-photobook": {
+      "id": "event-txt-photobook",
+      "kind": "product",
+      "section": "뮤직코리아 이벤트상품",
+      "name": "TOMORROW X TOGETHER - JP 5th SINGLE ’Setsuna Hanabi’ (Photobook Edition)",
+      "artist": "투모로우바이투게더(TOMORROW X TOGETHER)",
+      "image": "img/event/txt_photobook.webp",
+      "gallery": [
+        "img/event/txt_photobook.webp"
+      ],
+      "price": 38400,
+      "originalPrice": 47400,
+      "discount": 19,
+      "badges": [],
+      "notice": "뮤직코리아 이벤트상품",
+      "period": "08월 20일 11:00 ~ 08월 26일 23:59",
+      "rank": null,
+      "description": "TOMORROW X TOGETHER 일본 5th 싱글 ‘Setsuna Hanabi’ Photobook Edition.",
+      "sourceUrl": "",
+      "originalUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227223/cid/1887",
+      "productCode": "4571675465617",
+      "releaseDate": "2026-08-19",
+      "media": "CD",
+      "salePeriod": "08월 20일 11:00 ~ 08월 26일 23:59",
+      "detailInfo": [
+        "Drawer Box (W 213mm x H 156mm x D 30mm)",
+        "CD / 1 Disc",
+        "Disc Case (W 125mm x H 125mm)",
+        "Photobook (36P | W 142mm x H 200mm)",
+        "Postcard Set of 5 (W 100mm x H 150mm)",
+        "Paper Stand (W 140mm x H 200mm)",
+        "Selfie Photocard C (1 random out of 5 | W 55mm x H 85mm)",
+        "Selfie Photocard D (1 random out of 5 | W 55mm x H 85mm)"
+      ],
+      "verifiedOriginal": false,
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원 이상 무료)",
+      "mileage": "768원",
+      "trackList": [
+        "추후 공개"
+      ]
+    },
+    "preorder-1": {
+      "id": "preorder-1",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP(女)"
+      ],
+      "name": "제니(JENNIE) - EP [Fallen Angel] [2종세트]",
+      "artist": "블랙핑크(BLACKPINK)",
+      "productCode": "8804775481055",
+      "releaseDate": "2026-10-30",
+      "media": "CD",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "330 원",
+      "price": 16500,
+      "originalPrice": 20600,
+      "discount": 20,
+      "badges": [],
+      "image": "img/preorder/jennie_fallen_angel_set_main.webp",
+      "gallery": [],
+      "trackListTitle": "TRACK LIST",
+      "trackNote": "*Physical 단독 트랙",
+      "trackList": [
+        "FALLEN ANGEL",
+        "Less than a Lover",
+        "sweettooth*",
+        "lockitdown*",
+        "Face*",
+        "HEAVEN"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "[Fallen Angel]",
+          "items": [
+            "Jewel Case : 1종",
+            "CD-R : 1종 (버전별 이미지 동일)",
+            "booklet : 12pp / 1종 (버전별 이미지 상이)",
+            "4 panel poster : 1종 삽입 (버전별 이미지 상이)",
+            "photo card : 9종 중 랜덤 3종 삽입 (버전별 이미지 동일)"
+          ]
+        },
+        {
+          "title": "[Fallen Angel] (Alt ver.)",
+          "items": [
+            "Jewel Case : 1종",
+            "CD-R : 1종 (버전별 이미지 동일)",
+            "booklet : 12pp / 1종 (버전별 이미지 상이)",
+            "4 panel poster : 1종 삽입 (버전별 이미지 상이)",
+            "photo card : 9종 중 랜덤 3종 삽입 (버전별 이미지 동일)"
+          ]
+        }
+      ],
+      "shipping": [
+        "-배송 방법: CJ대한통운 / 한진택배",
+        "-배송 지역: 전국",
+        "-배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있는 점 양해 부탁드립니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우, 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "※ 고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "※ 무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "※ 주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "-상품 수령 후 7일 이내 요청 시",
+        "-표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "-고객 부주의로 인한 상품 훼손",
+        "-포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "-사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "-시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우.",
+        "-복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "※ 단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "※ 자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227500/cid/637",
+      "detailHeroImage": "img/preorder/jennie_fallen_angel_detail_exact.webp",
+      "hideThumbnails": true
+    },
+    "preorder-2": {
+      "id": "preorder-2",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP(女)"
+      ],
+      "name": "제니(JENNIE) - EP [Fallen Angel] (Alt ver.)",
+      "artist": "블랙핑크(BLACKPINK)",
+      "price": 16500,
+      "originalPrice": 20600,
+      "discount": 20,
+      "productCode": "8804775481062",
+      "releaseDate": "2026-10-30",
+      "media": "CD",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "330 원",
+      "image": "img/preorder/02_jennie_alt.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/preorder/jennie_fallen_angel_alt_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackNote": "*Physical 단독 트랙",
+      "trackList": [
+        "FALLEN ANGEL",
+        "Less than a Lover",
+        "sweettooth*",
+        "lockitdown*",
+        "Face*",
+        "HEAVEN"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "[Fallen Angel] (Alt ver.)",
+          "items": [
+            "Jewel Case : 1종",
+            "CD-R : 1종 (버전별 이미지 동일)",
+            "booklet : 12pp / 1종 (버전별 이미지 상이)",
+            "4 panel poster : 1종 삽입 (버전별 이미지 상이)",
+            "photo card : 9종 중 랜덤 3종 삽입 (버전별 이미지 동일)"
+          ]
+        }
+      ],
+      "shipping": [
+        "-배송 방법: CJ대한통운 / 한진택배",
+        "-배송 지역: 전국",
+        "-배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있는 점 양해 부탁드립니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우, 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "※ 고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "※ 무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "※ 주문 후 미입금 상태가 지속되면 주문이 자동 취소될 수 있습니다."
+      ],
+      "returnsPossible": [
+        "-상품 수령 후 7일 이내 요청 시",
+        "-표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "-고객 부주의로 인한 상품 훼손",
+        "-포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "-사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "-시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "-복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "※ 단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "※ 자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227496/cid/637"
+    },
+    "preorder-3": {
+      "id": "preorder-3",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP(女)"
+      ],
+      "name": "제니(JENNIE) - EP [Fallen Angel]",
+      "artist": "블랙핑크(BLACKPINK)",
+      "price": 16500,
+      "originalPrice": 20600,
+      "discount": 20,
+      "productCode": "8804775481055",
+      "releaseDate": "2026-10-30",
+      "media": "CD",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "330 원",
+      "image": "img/preorder/03_jennie_main.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/preorder/jennie_fallen_angel_regular_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackNote": "*Physical 단독 트랙",
+      "trackList": [
+        "FALLEN ANGEL",
+        "Less than a Lover",
+        "sweettooth*",
+        "lockitdown*",
+        "Face*",
+        "HEAVEN"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "[Fallen Angel]",
+          "items": [
+            "Jewel Case : 1종",
+            "CD-R : 1종 (버전별 이미지 동일)",
+            "booklet : 12pp / 1종 (버전별 이미지 상이)",
+            "4 panel poster : 1종 삽입 (버전별 이미지 상이)",
+            "photo card : 9종 중 랜덤 3종 삽입 (버전별 이미지 동일)"
+          ]
+        }
+      ],
+      "shipping": [
+        "-배송 방법: CJ대한통운 / 한진택배",
+        "-배송 지역: 전국",
+        "-배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있는 점 양해 부탁드립니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우, 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "※ 고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "※ 무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "※ 주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "-상품 수령 후 7일 이내 요청 시",
+        "-표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "-고객 부주의로 인한 상품 훼손",
+        "-포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "-사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "-시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우.",
+        "-복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "※ 단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "※ 자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227493/cid/637"
+    },
+    "preorder-4": {
+      "id": "preorder-4",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP(男)"
+      ],
+      "name": "CxM (SEVENTEEN) - CxM [DOUBLE UP] LIVE PARTY DC",
+      "artist": "세븐틴(SEVENTEEN)",
+      "price": 56000,
+      "originalPrice": 75000,
+      "discount": 25,
+      "productCode": "8800339141540",
+      "releaseDate": "2026-09-10",
+      "media": "Photobook",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "1,120 원",
+      "image": "img/preorder/04_cxm_double_up.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/preorder/cxm_double_up_live_party_detail.webp",
+      "badges": [],
+      "detailImageOnly": true,
+      "shipping": [
+        "-배송 방법: CJ대한통운 / 한진택배",
+        "-배송 지역: 전국",
+        "-배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있는 점 양해 부탁드립니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우, 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "※ 고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "※ 무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "※ 주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "-상품 수령 후 7일 이내 요청 시",
+        "-표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "-고객 부주의로 인한 상품 훼손",
+        "-포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "-사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "-시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우.",
+        "-복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "※ 단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "※ 자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227489/cid/637"
+    },
+    "preorder-5": {
+      "id": "preorder-5",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP"
+      ],
+      "name": "김하온(HAON), NOWIMYOUNG(나우아임영), JMIN - 2000 TAPE",
+      "artist": "김하온(HAON)",
+      "price": 15700,
+      "originalPrice": 19600,
+      "discount": 20,
+      "productCode": "8800371190933",
+      "releaseDate": "2026-09-04",
+      "media": "CD",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "314 원",
+      "image": "img/preorder/05_haon_2000_tape.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/preorder/haon_2000_tape_detail.webp",
+      "badges": [],
+      "detailImageOnly": true,
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "MILLENNIUM BUG",
+        "RHYMES N FLOWS",
+        "HIGH TOP",
+        "Nuptse North Face",
+        "SUDDEN ATTACK FX",
+        "NY DRIP SO COLD",
+        "한국노래 (KOREAN ANTHEM)",
+        "YANKEE CANDLE",
+        "SIP N SLOW",
+        "R.I.P",
+        "TURN UP THAT MUSIC",
+        "새천년 (NEW ERA)",
+        "Where 2 go",
+        "2000 to TOP",
+        "I ♡ KC",
+        "WINDOW SHOPPING",
+        "RICH RICH",
+        "UP",
+        "GREEN LIGHT",
+        "XYZ"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "detailInfo": [
+        "디지팩",
+        "CD-R",
+        "포토카드 8장",
+        "포스터 1장"
+      ],
+      "shipping": [
+        "-배송 방법: CJ대한통운 / 한진택배",
+        "-배송 지역: 전국",
+        "-배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있는 점 양해 부탁드립니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우, 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "※ 고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "※ 무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "※ 주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "-상품 수령 후 7일 이내 요청 시",
+        "-표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "-고객 부주의로 인한 상품 훼손",
+        "-포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "-사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "-시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우.",
+        "-복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "※ 단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "※ 자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227453/cid/637"
+    },
+    "preorder-6": {
+      "id": "preorder-6",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP(女)"
+      ],
+      "name": "JISOO - Single Album [CLICK] VINYL VER.",
+      "artist": "블랙핑크(BLACKPINK)",
+      "price": 49000,
+      "originalPrice": 63200,
+      "discount": 22,
+      "productCode": "8800388639449",
+      "releaseDate": "2026-11-30",
+      "media": "LP",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "980 원",
+      "image": "img/preorder/06_jisoo_vinyl.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "noticeImages": [
+        "img/preorder/jisoo_click_vinyl_lp_notice.webp"
+      ],
+      "detailHeroImage": "img/preorder/jisoo_click_vinyl_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "CLICK",
+        "CLICK (Instrumental)"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "",
+          "items": [
+            "VINYL",
+            "LARGE PHOTOCARD 5EA",
+            "FOLDED POSTER 1EA",
+            "STICKER 1EA",
+            "PHOTOCARD (RANDOM 1 OUT OF 2)",
+            "POLAROID (RANDOM 1 OUT OF 2)",
+            "* 구성은 제작 과정에서 일부 변경될 수 있습니다."
+          ]
+        }
+      ],
+      "albumDescription": [
+        "JISOO의 신곡 ‘CLICK’은 이유보다 먼저 끌리고, 말보다 먼저 가까워지는 순간을 담은 곡입니다.",
+        "서로에게 자연스럽게 이끌리는 두 사람의 감정을 ‘CLICK’이라는 단어로 표현하며, 팬들과도 자연스럽게 연결되는 특별한 순간을 그리고 있습니다."
+      ],
+      "shipping": [
+        "-배송 방법: CJ대한통운 / 한진택배",
+        "-배송 지역: 전국",
+        "-배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송될 수 있습니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 또는 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 미입금 상태가 지속되면 주문이 자동 취소될 수 있습니다."
+      ],
+      "returnsPossible": [
+        "-상품 수령 후 7일 이내 요청 시",
+        "-표시된 내용과 다른 상품을 공급받은 경우 관련 기준에 따라 교환/반품 요청이 가능합니다."
+      ],
+      "returnsImpossible": [
+        "-고객 부주의로 인한 상품 훼손",
+        "-포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "-사용 또는 일부 소비로 상품 가치가 현저히 감소한 경우",
+        "-시간의 경과로 재판매가 곤란할 정도로 상품 가치가 감소한 경우",
+        "-복제 가능한 상품의 포장이 훼손된 경우",
+        "-LP/VINYL 주문제작 특성상 단순 변심에 의한 교환/반품이 제한될 수 있습니다."
+      ],
+      "returnsNote": [
+        "※ LP/VINYL 재킷, 포장, 컬러 디스크 및 재생 특성에 대한 별도 유의사항은 상품상세정보의 LP/VINYL 안내 이미지를 확인해 주세요.",
+        "※ 불량 교환 요청 시 개봉 과정 또는 불량 상태를 확인할 수 있는 사진/영상이 필요할 수 있습니다."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227448/cid/637"
+    },
+    "preorder-7": {
+      "id": "preorder-7",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP(女)"
+      ],
+      "name": "JISOO - Single Album [CLICK] CLICK BABY BEAR NFC VER.",
+      "artist": "블랙핑크(BLACKPINK)",
+      "price": 42000,
+      "originalPrice": 54700,
+      "discount": 23,
+      "productCode": "8800388547591",
+      "releaseDate": "2026-09-04",
+      "media": "NFC",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "840 원",
+      "image": "img/preorder/07_jisoo_nfc.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/preorder/jisoo_click_baby_bear_nfc_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "CLICK",
+        "CLICK (Instrumental)"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "",
+          "items": [
+            "OUTBOX",
+            "CLICK BEAR 1ea",
+            "POSTCARDS 6ea",
+            "PHOTOCARD RANDOM 1 OUT OF 2",
+            "POLAROID RANDOM 1 OUT OF 2",
+            "* 구성은 제작 과정에서 일부 변경될 수 있습니다."
+          ]
+        }
+      ],
+      "shipping": [
+        "-배송 방법: CJ대한통운 / 한진택배",
+        "-배송 지역: 전국",
+        "-배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송될 수 있습니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 또는 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 미입금 상태가 지속되면 주문이 자동 취소될 수 있습니다."
+      ],
+      "returnsPossible": [
+        "-상품 수령 후 7일 이내 요청 시",
+        "-표시된 내용과 다른 상품을 공급받은 경우 관련 기준에 따라 교환/반품 요청이 가능합니다."
+      ],
+      "returnsImpossible": [
+        "-고객 부주의로 인한 상품 훼손",
+        "-포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "-사용 또는 일부 소비로 상품 가치가 현저히 감소한 경우",
+        "-시간의 경과로 재판매가 곤란할 정도로 상품 가치가 감소한 경우",
+        "-복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "※ 단순 변심 또는 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "※ 자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227444/cid/637"
+    },
+    "preorder-8": {
+      "id": "preorder-8",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP(女)"
+      ],
+      "name": "JISOO - Single Album [CLICK] PHOTOBOOK VER.",
+      "artist": "블랙핑크(BLACKPINK)",
+      "price": 18000,
+      "originalPrice": 22700,
+      "discount": 21,
+      "productCode": "8800388639272",
+      "releaseDate": "2026-09-04",
+      "media": "CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "360원",
+      "image": "img/preorder/08_jisoo_photobook.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/preorder/jisoo_click_photobook_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "CLICK",
+        "CLICK (Instrumental)"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "",
+          "items": [
+            "PHOTOBOOK",
+            "CD",
+            "PHOTOCARD RANDOM 1 OUT OF 2",
+            "POLAROID RANDOM 1 OUT OF 2",
+            "* 구성은 제작 과정에서 일부 변경될 수 있습니다."
+          ]
+        }
+      ],
+      "albumDescription": [
+        "‘CLICK’은 이유보다 먼저 끌리고 말보다 먼저 가까워지는 감정을 담은 곡입니다.",
+        "설명하기 어렵지만 분명하게 이어지는 관계의 설렘과 JISOO와 팬 사이의 특별한 연결을 표현합니다."
+      ],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "주문 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하면 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원할 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품 입고 일정은 제작사 사정에 따라 변경될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화가 진행될 수 있으며 이상 거래로 판단되면 주문이 보류 또는 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리됩니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우 관련 기준에 따라 교환/반품 요청이 가능합니다."
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 상품이 훼손된 경우",
+        "포장 개봉 또는 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 상품 가치가 현저히 감소한 경우",
+        "시간 경과로 재판매가 곤란할 정도로 상품 가치가 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유의 교환/반품은 왕복 배송비가 고객 부담입니다.",
+        "자세한 문의는 홈페이지 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227441/cid/637"
+    },
+    "preorder-9": {
+      "id": "preorder-9",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP(男)"
+      ],
+      "name": "도경수(D.O) - DOPAMINE – The 4th Mini Album (POP ver.)",
+      "artist": "엑소(EXO)",
+      "price": 17900,
+      "originalPrice": 22300,
+      "discount": 20,
+      "productCode": "8800371190759",
+      "releaseDate": "2026-09-08",
+      "media": "CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "358원",
+      "image": "img/preorder/09_do_pop.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/preorder/09_do_dopamine_pop_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "POP ver.",
+          "items": [
+            "OUTBOX : 195 x 153 x 50mm / 1EA",
+            "PHOTOBOOK : 130 x 170mm / 84P",
+            "CD-R : 120 x 120mm / 1EA",
+            "POSTCARD : 100 x 150mm / 2EA",
+            "FOLDED POSTER : 330 x 250mm / 1EA",
+            "PHOTOCARD : 55 x 85mm / RANDOM 2EA OUT OF 8",
+            "STICKERS : 100 x 126mm / 3EA"
+          ]
+        }
+      ],
+      "albumDescription": [
+        "추후 업데이트"
+      ],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있는 점 양해 부탁드립니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우, 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 7일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227432/cid/637"
+    },
+    "preorder-10": {
+      "id": "preorder-10",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP(男)"
+      ],
+      "name": "도경수(D.O) - DOPAMINE – The 4th Mini Album (FIZZ ver.)",
+      "artist": "엑소(EXO)",
+      "price": 17900,
+      "originalPrice": 22300,
+      "discount": 20,
+      "productCode": "8800371190742",
+      "releaseDate": "2026-09-08",
+      "media": "CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "358원",
+      "image": "img/preorder/10_do_fizz.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "badges": [],
+      "detailHeroImage": "img/preorder/10_do_fizz_detail.webp",
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "FIZZ ver.",
+          "items": [
+            "OUTBOX : 150*180*63mm / 1EA",
+            "PHOTOBOOK : 130*170mm / 84P",
+            "CD-R : 120*120mm / 1EA",
+            "POSTCARD : 100*150mm / 2EA",
+            "FOLDED POSTER : 250*330mm / 1EA",
+            "PHOTOCARD : 55*85mm / RANDOM 2EA OUT OF 8",
+            "STICKERS : 105*136.5mm / 3EA"
+          ]
+        }
+      ],
+      "albumDescription": [
+        "추후 업데이트"
+      ],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있는 점 양해 부탁드립니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우, 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 7일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227429/cid/637"
+    },
+    "preorder-11": {
+      "id": "preorder-11",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP(女)"
+      ],
+      "name": "MW:MEU(뮤) - 미니 1집 With U (Jewel Case ver.) 6종세트",
+      "artist": "뮤(MW:MEU)",
+      "price": 85200,
+      "originalPrice": 106200,
+      "discount": 20,
+      "productCode": "상품 페이지 기준",
+      "releaseDate": "2026-09-15",
+      "media": "CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "1,704원",
+      "image": "img/preorder/11_mwmeu_jewel_set.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/preorder/11_mwmeu_jewel_set_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "Jewel Case ver. 6종세트",
+          "items": [
+            "CASE : 144 x 125(mm) / 6 TYPES",
+            "BOOKLET : 120 x 120(mm) / 6 TYPES",
+            "CD : 125 x 125(mm) / 1 TYPE",
+            "CHIBI PAJAMA STICKER : 50 x 50(mm) / 5 TYPES / RANDOM 2 OUT OF 5",
+            "PHOTOCARD (PAJAMA ver.) : 55 x 86(mm) / 5 VERSIONS / RANDOM 1 OUT OF 5",
+            "PHOTOCARD (SPORTY ver.) : 55 x 86(mm) / 5 VERSIONS / RANDOM 1 OUT OF 5"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 7일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227424/cid/637"
+    },
+    "preorder-12": {
+      "id": "preorder-12",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP(女)"
+      ],
+      "name": "MW:MEU(뮤) - 미니 1집 With U (Jewel Case ver.) 커버랜덤",
+      "artist": "뮤(MW:MEU)",
+      "price": 14200,
+      "originalPrice": 17700,
+      "discount": 20,
+      "productCode": "상품 페이지 기준",
+      "releaseDate": "2026-09-15",
+      "media": "CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "284원",
+      "image": "img/preorder/12_mwmeu_jewel_random.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/preorder/12_mwmeu_jewel_random_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "Jewel Case ver. 커버랜덤",
+          "items": [
+            "CASE : 144 x 125(mm) / 6 TYPES / RANDOM",
+            "BOOKLET : 120 x 120(mm) / 6 TYPES",
+            "CD : 125 x 125(mm) / 1 TYPE",
+            "CHIBI PAJAMA STICKER : 50 x 50(mm) / 5 TYPES / RANDOM 2 OUT OF 5",
+            "PHOTOCARD (PAJAMA ver.) : 55 x 86(mm) / 5 VERSIONS / RANDOM 1 OUT OF 5",
+            "PHOTOCARD (SPORTY ver.) : 55 x 86(mm) / 5 VERSIONS / RANDOM 1 OUT OF 5"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 7일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227420/cid/"
+    },
+    "preorder-13": {
+      "id": "preorder-13",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP(女)"
+      ],
+      "name": "MW:MEU(뮤) - 미니 1집 With U (Photobook 2종세트)",
+      "artist": "뮤(MW:MEU)",
+      "price": 35800,
+      "originalPrice": 44600,
+      "discount": 20,
+      "productCode": "8800388630101",
+      "releaseDate": "2026-09-15",
+      "media": "CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "716원",
+      "image": "img/preorder/13_mwmeu_photobook_set.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/preorder/13_mwmeu_photobook_set_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "Photobook With U ver.",
+          "items": [
+            "포토북 : 80 page (148x210mm)",
+            "CD (125x125mm)",
+            "접지 포스터 (410x280mm)",
+            "판스티커 (100x140mm)",
+            "유닛 포토 프레임 : Random 1 of 3 (60x150mm)",
+            "북마크 (35x120mm)",
+            "포토카드(Pastel ver.) : Random 1 of 5 (55x85mm)",
+            "포토카드(Summer ver.) : Random 1 of 5 (55x85mm)"
+          ]
+        },
+        {
+          "title": "Photobook Girls’ Night ver.",
+          "items": [
+            "포토북 : 80 page (148x210mm)",
+            "CD (125x125mm)",
+            "포스트 카드 : Random 1 of 5 (100x150mm)",
+            "접지 포스터 (410x280mm)",
+            "포토카드(Dress ver.) : Random 1 of 5 (55x85mm)",
+            "포토카드(Office ver.) : Random 1 of 5 (55x85mm)"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 7일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227416/cid/"
+    },
+    "preorder-14": {
+      "id": "preorder-14",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP(女)"
+      ],
+      "name": "소연(SOYEON) - 정규 [끝내주는 인생] (절 ver.) [한정반]",
+      "artist": "아이들(i-dle)",
+      "price": 39500,
+      "originalPrice": 49300,
+      "discount": 20,
+      "productCode": "8804775480485",
+      "releaseDate": "2026-09-21",
+      "media": "CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "790원",
+      "image": "img/preorder/14_soyeon_jeol.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/preorder/14_soyeon_jeol_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "",
+          "items": [
+            "패키지 박스 : 205x145x80(mm) / 1종",
+            "인센스 홀더 : 73x84x63(mm) / 1종",
+            "주의사항 안내문 : 90x130(mm) / 1종",
+            "포토북 : 135x180x4(mm) / 48p / 1종",
+            "알판 봉투 : 130x130(mm) / 1종",
+            "CD : 120x120(mm) / 1종",
+            "스티커 : 37x71(mm) / 55x55(mm) / 2종 삽입",
+            "포토카드 : 55x85(mm) / 6종 중 랜덤 2종 삽입",
+            "초도 한정 포스터 : 750x520(mm) / 1종 증정"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227516/cid/637"
+    },
+    "preorder-15": {
+      "id": "preorder-15",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP(女)"
+      ],
+      "name": "소연(SOYEON) - 정규 [끝내주는 인생] (섬 ver.)",
+      "artist": "아이들(i-dle)",
+      "price": 13400,
+      "originalPrice": 16800,
+      "discount": 20,
+      "productCode": "8804775480478",
+      "releaseDate": "2026-09-07",
+      "media": "CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "268원",
+      "image": "img/preorder/15_soyeon_seom.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/preorder/15_soyeon_seom_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "",
+          "items": [
+            "쥬얼 케이스 : 145x125(mm) / 1종",
+            "북릿 : 120x120(mm) / 28p / 1종",
+            "CD : 120x120(mm) / 1종",
+            "스티커 : 67x26(mm), 52x52(mm) / 2종 삽입",
+            "포토카드 : 55x85(mm) / 4종 중 랜덤 1종 삽입",
+            "초도 한정 포스터 : 520x750(mm) / 1종 증정"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227512/cid/637"
+    },
+    "preorder-16": {
+      "id": "preorder-16",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "예약상품",
+      "breadcrumb": [
+        "HOME",
+        "예약상품",
+        "국내상품",
+        "K-POP(女)"
+      ],
+      "name": "소연(SOYEON) - 정규 [끝내주는 인생] (집 ver.)",
+      "artist": "아이들(i-dle)",
+      "price": 19400,
+      "originalPrice": 24200,
+      "discount": 20,
+      "productCode": "8804775480461",
+      "releaseDate": "2026-09-07",
+      "media": "CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "388원",
+      "image": "img/preorder/16_soyeon_jip.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/preorder/16_soyeon_jip_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "",
+          "items": [
+            "하드 커버 포토북 : 145x195x13(mm) / 80p / 1종",
+            "알판 봉투 : 130x130(mm) / 1종",
+            "CD : 120x120(mm) / 1종",
+            "스티커팩 : 110x150(mm) / 1종 삽입",
+            "북마크 : 75x70(mm) / 1종 삽입",
+            "포토카드 : 55x85(mm) / 6종 중 랜덤 2종 삽입",
+            "초도 한정 포스터 : 750x520(mm) / 1종 증정"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227509/cid/637"
+    },
+    "rank-1": {
+      "id": "rank-1",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "뮤직코리아 인기 판매순위",
+      "breadcrumb": [
+        "HOME",
+        "국내상품",
+        "TOMORROW X TOGETHER"
+      ],
+      "name": "연준 - NO LABELS: PART 02 (Compact Ver.) [커버랜덤]",
+      "artist": "투모로우바이투게더(TOMORROW X TOGETHER)",
+      "price": 13400,
+      "originalPrice": 16800,
+      "discount": 20,
+      "productCode": "8800374615488",
+      "releaseDate": "2026-07-10",
+      "media": "CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "268원",
+      "image": "img/rank/rank1_yeonjun_compact.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/rank/rank1_yeonjun_compact_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "",
+          "items": [
+            "※ 본 음반에 포함된 랜덤 구성품은 동일한 확률로 구성되어 있습니다.",
+            "※ 모든 구성품은 각 버전에 해당하는 구성품으로 제공됩니다. (포토카드 제외)",
+            "총 3버전 (THEME 1 / THEME 2 / THEME 3)",
+            "[THEME 1]",
+            "PHOTOBOOK : W300 x H300(mm) / 1EA / 24P",
+            "POSTER : W445 x H295(mm) / 1EA",
+            "LYRIC POSTER : W295 x H445(mm) / 1EA",
+            "ENVELOPE : W220 x H150(mm) / 1EA",
+            "POSTCARD : W185 x H130(mm) / 2EA",
+            "STICKER : 5EA",
+            "PHOTOCARD : W55 x H85(mm) / 1EA OUT OF 5EA",
+            "CD TRAY : W125 x H125(mm) / 1EA",
+            "CD-R : W120 x H120(mm) / 1EA",
+            "[THEME 2]",
+            "PHOTOBOOK : W300 x H300(mm) / 1EA / 24P",
+            "POSTER : W445 x H295(mm) / 1EA",
+            "LYRIC POSTER : W295 x H445(mm) / 1EA",
+            "ENVELOPE : W220 x H150(mm) / 1EA",
+            "POSTCARD : W185 x H130(mm) / 2EA",
+            "STICKER : 5EA",
+            "PHOTOCARD : W55 x H85(mm) / 1EA OUT OF 5EA",
+            "CD TRAY : W125 x H125(mm) / 1EA",
+            "CD-R : W120 x H120(mm) / 1EA",
+            "[THEME 3]",
+            "PHOTOBOOK : W300 x H300(mm) / 1EA / 24P",
+            "POSTER : W445 x H295(mm) / 1EA",
+            "LYRIC POSTER : W295 x H445(mm) / 1EA",
+            "ENVELOPE : W220 x H150(mm) / 1EA",
+            "POSTCARD : W185 x H130(mm) / 2EA",
+            "STICKER : 5EA",
+            "PHOTOCARD : W55 x H85(mm) / 1EA OUT OF 5EA",
+            "CD TRAY : W125 x H125(mm) / 1EA",
+            "CD-R : W120 x H120(mm) / 1EA"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224556/cid/879"
+    },
+    "rank-2": {
+      "id": "rank-2",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "뮤직코리아 인기 판매순위",
+      "breadcrumb": [
+        "HOME",
+        "국내상품",
+        "K-POP(男)",
+        "BOYNEXTDOOR"
+      ],
+      "name": "BOYNEXTDOOR - 1st Studio Album [HOME] (POCKET HOME ver.) 멤버랜덤",
+      "artist": "보이넥스트도어(BOYNEXTDOOR)",
+      "price": 32700,
+      "originalPrice": 41000,
+      "discount": 20,
+      "productCode": "8800353119877",
+      "releaseDate": "2026-06-30",
+      "media": "NFC",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "654 원",
+      "image": "img/rank/rank2_boynextdoor.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/rank/rank2_boynextdoor_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "06070",
+        "VIRAL",
+        "똑똑똑",
+        "ADIOS!",
+        "Upside Down",
+        "DIVE",
+        "기억해줘요",
+        "I Wonder",
+        "I Wonder, Always (CD Only)"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "",
+          "items": [
+            "※ 집 케이스, 캐릭터 피규어, 소파 파츠, 포토카드는 각 멤버에 해당하는 구성품으로 제공됩니다.",
+            "아웃박스 : 공통 1종 / W140 x H92.5 x T52.5 (mm)",
+            "길 파츠 : 공통 1종 / W122 x H70 x T4 (mm)",
+            "집 케이스 : 6종 중 1종 랜덤 / W55 x H55 x T40 (mm)",
+            "캐릭터 피규어 : 6종 중 1종 랜덤(집 케이스 멤버와 동일) / 최대 W17 x H32 x T15 (mm)",
+            "소파 파츠 : 6종 중 1종 랜덤(집 케이스 멤버와 동일) / W21 x H17 x T15 (mm)",
+            "포토카드 : 6종 중 1종 랜덤(집 케이스 멤버와 동일) / W55 x H85 (mm)",
+            "스티커 : 공통 1종 + 6종 중 1종 랜덤(집 케이스 멤버와 동일) / 최대 W50 x H47.5 (mm)",
+            "NFC 태그 : 공통 1종 / W18 x H32 (mm)",
+            "구성품 봉투 : 공통 1종 / W70 x H95 (mm)",
+            "크레딧 시트 : 공통 1종 / W85 x H110 (mm)",
+            "* 본 음반에 포함된 랜덤 구성품은 동일한 확률로 구성되어 있습니다."
+          ]
+        }
+      ],
+      "albumDescription": [
+        "본 상품은 NFC 형식으로 제공됩니다.",
+        "디지털 콘텐츠 이용 시 지원 OS 환경을 확인해 주세요."
+      ],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224765/cid/879"
+    },
+    "rank-3": {
+      "id": "rank-3",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "뮤직코리아 인기 판매순위",
+      "breadcrumb": [
+        "HOME",
+        "국내상품",
+        "LP/VINYL",
+        "CORTIS"
+      ],
+      "name": "CORTIS - The 2nd EP GREENGREEN (Vinyl)",
+      "artist": "코르티스(CORTIS)",
+      "price": 39000,
+      "originalPrice": 48800,
+      "discount": 20,
+      "productCode": "8800365015037",
+      "releaseDate": "2026-05-04",
+      "media": "LP",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "780 원",
+      "image": "img/rank/rank3_cortis_vinyl.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailImages": [
+        "img/rank/rank3_cortis_vinyl_lp_notice.webp",
+        "img/rank/rank3_cortis_vinyl_detail.webp"
+      ],
+      "detailHeroImage": "img/rank/rank3_cortis_vinyl_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "총 1버전 (Vinyl)",
+          "items": [
+            "게이트폴드 (1종) / W316 x H316 (mm), 1ea",
+            "이너 슬리브 (1종) / W305 x H305 (mm), 1ea",
+            "북클릿 (1종) / W305 x H305 (mm), 1ea, 16p",
+            "포토카드 (6종 1세트) / W55 x H85 (mm), 6ea 1set",
+            "포토카드 슬리브 (1종) / W60 x H90 (mm), 1ea",
+            "바이닐 (1종) / W300 x H300 (mm), 1ea, 45RPM"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/221804/cid/879"
+    },
+    "rank-4": {
+      "id": "rank-4",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "뮤직코리아 인기 판매순위",
+      "breadcrumb": [
+        "HOME",
+        "국내상품",
+        "K-POP(男)",
+        "TOMORROW X TOGETHER"
+      ],
+      "name": "연준 - NO LABELS: PART 02 [커버랜덤]",
+      "artist": "투모로우바이투게더(TOMORROW X TOGETHER)",
+      "price": 19900,
+      "originalPrice": 25000,
+      "discount": 20,
+      "productCode": "8800374615471",
+      "releaseDate": "2026-07-10",
+      "media": "CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "398원",
+      "image": "img/rank/rank4_yeonjun_cover.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/rank/rank4_yeonjun_cover_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "총 3버전 (THEME 1 / THEME 2 / THEME 3)",
+          "items": [
+            "※ 본 음반에 포함된 랜덤 구성품은 동일한 확률로 구성되어 있습니다.",
+            "※ 모든 구성품은 각 버전에 해당하는 구성품으로 제공됩니다. (포토카드 제외)",
+            "[THEME 1]",
+            "아웃박스 : 1종 / W300 x H220 x D10 (mm)",
+            "포토북 : 1종 / W210 x H295 (mm) / 64p",
+            "포스터 : 1종 / W420 x H590 (mm)",
+            "엽서 : 6종 / W100 x H150 (mm)",
+            "인화지 : 2종 / W102 x H152 (mm)",
+            "스티커 세트 : 1종 / W300 x H295 (mm)",
+            "포토카드 : 5종 중 1종 / W55 x H85 (mm)",
+            "CD 봉투 : 1종 / W125 x H125 (mm)",
+            "CD-R : 1종 / W120 x H120 (mm)",
+            "[THEME 2]",
+            "아웃박스 : 1종 / W300 x H220 x D10 (mm)",
+            "포토북 : 1종 / W210 x H295 (mm) / 64p",
+            "포스터 : 1종 / W590 x H420 (mm)",
+            "엽서 : 6종 / W100 x H150 (mm)",
+            "인화지 : 2종 / W102 x H152 (mm)",
+            "스티커 세트 : 1종 / W300 x H295 (mm)",
+            "포토카드 : 5종 중 1종 / W55 x H85 (mm)",
+            "CD 봉투 : 1종 / W125 x H125 (mm)",
+            "CD-R : 1종 / W120 x H120 (mm)",
+            "[THEME 3]",
+            "아웃박스 : 1종 / W300 x H220 x D10 (mm)",
+            "포토북 : 1종 / W210 x H295 (mm) / 64p",
+            "포스터 : 1종 / W420 x H590 (mm)",
+            "엽서 : 6종 / W100 x H150 (mm)",
+            "인화지 : 2종 / W152 x H102 (mm)",
+            "스티커 세트 : 1종 / W300 x H295 (mm)",
+            "포토카드 : 5종 중 1종 / W55 x H85 (mm)",
+            "CD 봉투 : 1종 / W125 x H125 (mm)",
+            "CD-R : 1종 / W120 x H120 (mm)"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224548/cid/879"
+    },
+    "rank-5": {
+      "id": "rank-5",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "뮤직코리아 인기 판매순위",
+      "breadcrumb": [
+        "HOME",
+        "국내상품",
+        "K-POP(男)",
+        "CORTIS"
+      ],
+      "name": "CORTIS - The 2nd EP [GREENGREEN] (Dice ver.)",
+      "artist": "코르티스(CORTIS)",
+      "price": 29700,
+      "originalPrice": 37200,
+      "discount": 20,
+      "productCode": "8800365015044",
+      "releaseDate": "2026-05-07",
+      "media": "Mini CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "594원",
+      "image": "img/rank/rank5_cortis_dice.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/rank/rank5_cortis_dice_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "총 1버전 (Dice ver.)",
+          "items": [
+            "패키지 (1종) / W100 x H100 x D130 (mm), 1ea",
+            "이너 박스 (1종) / W93 x H93 x D24 (mm), 1ea",
+            "다이스 (1종) / W58 x H58 x D67 (mm), 1ea",
+            "스티커 (2종 1세트) / W85 x H21 (mm), 2ea 1set",
+            "스크래치 카드 (5종 중 1종 랜덤) / W55 x H85 (mm), 1ea out of 5ea",
+            "포토카드 (6종 1세트) / W55 x H85 (mm), 6ea 1set",
+            "포토카드 슬리브 (1종) / W60 x H90 (mm), 1ea",
+            "종이접기 (1종) / W80 x H80 (mm), 1ea",
+            "미니 CD-R (1종) / W80 x H80 (mm), 1ea",
+            "미니 CD-R 슬리브 (1종) / W85 x H85 (mm), 1ea"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/221820/cid/879"
+    },
+    "rank-6": {
+      "id": "rank-6",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "뮤직코리아 인기 판매순위",
+      "breadcrumb": [
+        "HOME",
+        "국내상품",
+        "K-POP(男)",
+        "CORTIS"
+      ],
+      "name": "CORTIS - The 2nd EP [GREENGREEN] ('Blue Lips' Lip Balm ver.)",
+      "artist": "코르티스(CORTIS)",
+      "price": 29700,
+      "originalPrice": 37200,
+      "discount": 20,
+      "productCode": "8800379504992",
+      "releaseDate": "2026-06-29",
+      "media": "Mini CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "594원",
+      "image": "img/rank/rank6_cortis_lipbalm.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/rank/rank6_cortis_blue_lips_detail.webp",
+      "badges": [],
+      "soldOut": true,
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "1. TNT",
+        "2. REDRED",
+        "3. ACAI",
+        "4. YOUNGCREATORCREW",
+        "5. Wassup",
+        "6. Blue Lips"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "총 1버전 ('Blue Lips' Lip Balm ver.)",
+          "items": [
+            "패키지 (1종) / W100 x H100 x D70 (mm), 1ea",
+            "이너 박스 (1종) / W93 x H93 x D30 (mm), 1ea",
+            "코르티스 블루 립스 (1종) / W45 x H45 x D45 (mm), 1ea",
+            "스티커 (2종 1세트) / W85 x H21 (mm), 2ea 1set",
+            "에폭시 스티커 (1종) / W80 x H80 (mm), 1ea",
+            "홀로그램 포토카드 (5종 중 1종 랜덤) / W55 x H85 (mm), 1ea out of 5ea",
+            "포토카드 (6종 1세트) / W55 x H85 (mm), 6ea 1set",
+            "포토카드 슬리브 (1종) / W60 x H90 (mm), 1ea",
+            "미니 CD-R (1종) / W80 x H80 (mm), 1ea",
+            "미니 CD-R 슬리브 (1종) / W85 x H85 (mm), 1ea"
+          ]
+        }
+      ],
+      "albumDescription": [
+        "제품명 : CORTIS Blue Lips / 코르티스 블루 립스",
+        "용량 : 13 ml / 0.43 fl. Oz.",
+        "표시 성분 : 토코페롤",
+        "판매사 : 빅히트 뮤직 / 02-3444-0105 / 서울특별시 용산구 한강대로 42",
+        "화장품책임판매업자 : ㈜토리든 / 대전광역시 서구 도안북로93번길 10-3, 2층",
+        "소비자 상담실 : 1600-3584",
+        "제조국 : 대한민국",
+        "본 제품은 만 14세 이상을 대상으로 설계 및 개발되었습니다."
+      ],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224176/cid/879"
+    },
+    "new-1": {
+      "id": "new-1",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(男)",
+        "AHOF"
+      ],
+      "name": "AHOF(아홉) - 미니 3집 [RUN TO YOU] (QR ALBUM Ver.)",
+      "artist": "아홉(AHOF)",
+      "price": 7400,
+      "originalPrice": 9200,
+      "discount": 20,
+      "productCode": "8804775479823",
+      "releaseDate": "2026-07-08",
+      "media": "QR CARD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "148원",
+      "image": "img/new_products/01_ahof_qr.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/new_products/detail/new1_ahof_qr_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "RUN TO YOU",
+        "Sugar High",
+        "JUST SAY YES",
+        "그냥 너라서 그래",
+        "Our Story"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "",
+          "items": [
+            "OUT BOX : 90x60x10mm / 1종",
+            "QR CARD : 55x85mm / 1종",
+            "IMAGE CARD SET : 55x85mm / 10종(1세트) 삽입",
+            "PHOTOCARD : 55x85mm / 18종 중 랜덤 1종 삽입"
+          ]
+        }
+      ],
+      "albumDescription": [
+        "《망설임 없이, 먼저 향하는 마음》",
+        "《한 사람을 향한 다섯 개의 장면》",
+        "《직진에서 시작해 약속으로 남는, 아홉의 확신》",
+        "“재지 않고, 둘러가지 않고, 먼저 다가간다.”",
+        "AHOF이 미니 3집 ‘RUN TO YOU’로 돌아왔다.",
+        "한 사람을 향한 방향을 차분하게 그러나 분명하게 새긴 앨범으로, 직진하는 마음의 확신을 담아낸다.",
+        "마지막 트랙 ‘Our Story’는 다섯 장면의 끝에서 모든 마음을 한 편의 이야기로 매듭짓는 팬송이다."
+      ],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224832/cid/879",
+      "verifiedOriginal": true
+    },
+    "new-2": {
+      "id": "new-2",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(男)",
+        "AHOF"
+      ],
+      "name": "AHOF(아홉) - 미니 3집 [RUN TO YOU] (DIGIPACK Ver.) 커버랜덤",
+      "artist": "아홉(AHOF)",
+      "price": 14200,
+      "originalPrice": 17700,
+      "discount": 20,
+      "productCode": "8804775479816",
+      "releaseDate": "2026-07-08",
+      "media": "CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "284원",
+      "image": "img/new_products/02_ahof_digipack.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/new_products/detail/new2_ahof_digipack_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "RUN TO YOU",
+        "Sugar High",
+        "JUST SAY YES",
+        "그냥 너라서 그래",
+        "Our Story"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "",
+          "items": [
+            "DIGIPACK : 150x150mm / 10종 (개인 9종 / 단체 1종) (버전별 이미지 상이)",
+            "PHOTOBOOK : 140x140mm / 16p / 1종 (버전별 이미지 상이)",
+            "CD-R : 1종 (버전별 이미지 동일)",
+            "GROUP PHOTOCARD : 55x85mm / 2종 중 랜덤 1종 삽입 (버전별 이미지 동일)",
+            "PHOTOCARD : 55x85mm / 9종 중 랜덤 1종 삽입 (버전별 이미지 동일)",
+            "STICKER : 140x140mm / 1종 삽입 (버전별 이미지 상이) (커버에 매칭되는 스티커 삽입)",
+            "POSTCARD : 140x140mm / 1종 삽입 (버전별 이미지 동일)"
+          ]
+        }
+      ],
+      "albumDescription": [
+        "《망설임 없이, 먼저 향하는 마음》",
+        "《한 사람을 향한 다섯 개의 장면》",
+        "《직진에서 시작해 약속으로 남는, 아홉의 확신》",
+        "“재지 않고, 둘러가지 않고, 먼저 다가간다.”",
+        "AHOF이 미니 3집 ‘RUN TO YOU’로 돌아왔다.",
+        "한 사람을 향한 방향을 차분하게 그러나 분명하게 새긴 앨범으로, 직진하는 마음의 확신을 담아낸다.",
+        "마지막 트랙 ‘Our Story’는 다섯 장면의 끝에서 모든 마음을 한 편의 이야기로 매듭짓는 팬송이다."
+      ],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224824/cid/879",
+      "verifiedOriginal": true
+    },
+    "new-3": {
+      "id": "new-3",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(男)",
+        "AHOF"
+      ],
+      "name": "AHOF(아홉) - 미니 3집 [RUN TO YOU] (PHOTOBOOK Ver.) 커버랜덤",
+      "artist": "아홉(AHOF)",
+      "price": 18600,
+      "originalPrice": 23300,
+      "discount": 20,
+      "productCode": "8804775479809",
+      "releaseDate": "2026-07-08",
+      "media": "CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "372원",
+      "image": "img/new_products/03_ahof_photobook.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/new_products/detail/new3_ahof_photobook_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "1. RUN TO YOU",
+        "2. Sugar High",
+        "3. JUST SAY YES",
+        "4. 그냥 너라서 그래",
+        "5. Our Story"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "HEART Ver.",
+          "items": [
+            "PHOTOBOOK COVER : 160x220mm / 6p / 1종",
+            "PHOTOBOOK : 160x220mm / 92p / 1종",
+            "CD-R : 1종 (버전별 이미지 상이)",
+            "ENVELOPE : 160x105mm / 1종 삽입 (버전별 이미지 상이)",
+            "POSTCARD : 150x100mm / 1종 삽입 (버전별 이미지 상이)",
+            "GROUP POSTER : 430x300mm / 1종 삽입",
+            "UNIT POSTER : 430x300mm / 3종 중 랜덤 1종 삽입",
+            "POLAROID : 108x86mm / 9종 중 랜덤 1종 삽입 (버전별 이미지 상이)",
+            "BOOKMARK : 80x70mm / 3종 중 랜덤 1종 삽입 (버전별 이미지 동일)",
+            "PHOTOCARD : 55x85mm / 9종 중 랜덤 1종 삽입 (버전별 이미지 상이)",
+            "UNIT PHOTOCARD : 55x85mm / 3종 중 랜덤 1종 삽입 (버전별 이미지 상이)",
+            "STICKERS : 150x200mm, 100x18mm / 2종 삽입 (버전별 이미지 상이)"
+          ]
+        },
+        {
+          "title": "RUSH Ver.",
+          "items": [
+            "PHOTOBOOK COVER : 190x250mm / 6p / 1종",
+            "PHOTOBOOK : 190x250mm / 92p / 1종",
+            "CD-R : 1종 (버전별 이미지 상이)",
+            "ENVELOPE : 160x105mm / 1종 삽입 (버전별 이미지 상이)",
+            "POSTCARD : 100x150mm / 1종 삽입 (버전별 이미지 상이)",
+            "GROUP POSTER : 490x370mm / 1종 삽입",
+            "MEMBER POSTER : 370x490mm / 9종 중 랜덤 1종 삽입",
+            "POLAROID : 108x86mm / 9종 중 랜덤 1종 삽입 (버전별 이미지 상이)",
+            "BOOKMARK : 80x70mm / 3종 중 랜덤 1종 삽입 (버전별 이미지 동일)",
+            "PHOTOCARD : 55x85mm / 9종 중 랜덤 1종 삽입 (버전별 이미지 상이)",
+            "UNIT PHOTOCARD : 55x85mm / 3종 중 랜덤 1종 삽입 (버전별 이미지 상이)",
+            "STICKERS : 180x240mm, 100x18mm / 2종 삽입 (버전별 이미지 상이)"
+          ]
+        }
+      ],
+      "albumDescription": [
+        "《망설임 없이, 먼저 향하는 마음》",
+        "《한 사람을 향한 다섯 개의 장면》",
+        "《직진에서 시작해 약속으로 남는, 아홉의 확신》",
+        "“재지 않고, 둘러가지 않고, 먼저 다가간다.”",
+        "AHOF이 미니 3집 ‘RUN TO YOU’로 돌아왔다.",
+        "한 사람을 향한 방향을 차분하게 그러나 분명하게 새긴 앨범으로, 직진하는 마음의 확신을 담아낸다.",
+        "마지막 트랙 ‘Our Story’는 다섯 장면의 끝에서 모든 마음을 한 편의 이야기로 매듭짓는 팬송이다."
+      ],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224816/cid/879"
+    },
+    "new-4": {
+      "id": "new-4",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(男)",
+        "VAYONN"
+      ],
+      "name": "VAYONN(베이온) - 1ST EP 'Youth Today' (Youth Ver.)",
+      "artist": "베이온(VAYONN)",
+      "price": 9000,
+      "originalPrice": 11300,
+      "discount": 20,
+      "productCode": "8803581204469",
+      "releaseDate": "2026-07-06",
+      "media": "QR CARD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "180원",
+      "image": "img/new_products/04_vayonn_youth.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/new_products/detail/new4_vayonn_youth_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "Youth Ver.",
+          "items": [
+            "BOX / 76 x 115 mm / 1ea",
+            "TRADING CARD / 63 x 89 mm / Random 1ea Out Of 6ea",
+            "QR CARD / 55 x 85 mm / 1ea",
+            "PHOTO CARD SIDE A ver. / 55 x 85 mm / Random 1ea Out Of 6ea",
+            "PHOTO CARD SIDE B ver. / 55 x 85 mm / Random 1ea Out Of 6ea"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224716/cid/879"
+    },
+    "new-5": {
+      "id": "new-5",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(男)",
+        "VAYONN"
+      ],
+      "name": "VAYONN(베이온) - 1ST EP 'Youth Today' (Today Ver.) 커버랜덤",
+      "artist": "베이온(VAYONN)",
+      "price": 29700,
+      "originalPrice": 37200,
+      "discount": 20,
+      "productCode": "8803581204452",
+      "releaseDate": "2026-07-06",
+      "media": "CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "594원",
+      "image": "img/new_products/05_vayonn_today.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/new_products/detail/new5_vayonn_today_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "Today Ver. / 커버랜덤",
+          "items": [
+            "ALARM CLOCK BOX / 150 x 200 mm / 1ea",
+            "ALARM CLOCK / 110 x 155 mm / 1ea",
+            "PHOTO BOOK / 170 x 110 mm / 36p",
+            "MINI CD-R & ENVELOPE / 85 x 85 mm / 1ea",
+            "LYRICS BOOKLET / 370 x 280 mm / 1ea",
+            "STICKER / 120 x 160 mm / 1ea",
+            "PHOTO CARD SIDE A ver. / 55 x 85 mm / Random 1ea Out Of 6ea",
+            "PHOTO CARD SIDE B ver. / 55 x 85 mm / Random 1ea Out Of 6ea"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224708/cid/879"
+    },
+    "new-6": {
+      "id": "new-6",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(女)",
+        "i-dle"
+      ],
+      "name": "i-dle(아이들) - 미니 9집 [We made] (Crow Ver.)",
+      "artist": "아이들(i-dle)",
+      "price": 20900,
+      "originalPrice": 26100,
+      "discount": 20,
+      "productCode": "8804775465307",
+      "releaseDate": "2026-07-06",
+      "media": "Mini CD",
+      "shippingMethod": "CJ대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5만원이상 무료)",
+      "mileage": "418원",
+      "image": "img/new_products/06_idle_crow.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/new_products/detail/new6_idle_crow_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "Crow Ver.",
+          "items": [
+            "OUTBOX : 113 x 113 x 42 (mm) / 1종",
+            "ROUND TINCASE : 110 x 110 x 40 (mm) / 1종",
+            "ROUND PHOTO : 100 x 100 (mm) / 30종 삽입",
+            "PHOTO CARD : 55 x 85 (mm) / 5종 중 랜덤 2종 삽입",
+            "ROUND POSTCARD (LYRICS CARD) : 100 x 100 (mm) / 7종",
+            "STICKER : 50 x 50 (mm) / 3종 삽입",
+            "BOOKMARK : 50 x 90 (mm) / 1종 삽입",
+            "MINI CD-R : 80 x 80 (mm) / 1종 삽입",
+            "초도 한정 POSTER : 750 x 520 (mm) / 1종 증정"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224400/cid/879"
+    },
+    "new-7": {
+      "id": "new-7",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(女)",
+        "i-dle"
+      ],
+      "name": "i-dle(아이들) - 미니 9집 [We made] (POCAALBUM Ver.)",
+      "artist": "아이들(i-dle)",
+      "price": 13400,
+      "originalPrice": 16800,
+      "discount": 20,
+      "productCode": "8804775469978",
+      "releaseDate": "2026-07-06",
+      "media": "QR CARD",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "268 원",
+      "image": "img/new_products/07_idle_poca.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/new_products/detail/new7_idle_poca_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "POCAALBUM Ver.",
+          "items": [
+            "ENVELOPE PACKAGE : 100 x 70 (mm) / 1종",
+            "QR CARD : 55 x 85 (mm) / 5종 중 랜덤 1종",
+            "PHOTO CARD : 55 x 85 (mm) / 10종 중 랜덤 2종 삽입",
+            "STICKER : 55 x 85 (mm) / 2종 삽입",
+            "CREDIT & USER GUIDE : 110 x 85 (mm) / 1종"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224408/cid/879"
+    },
+    "new-8": {
+      "id": "new-8",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(女)",
+        "i-dle"
+      ],
+      "name": "i-dle(아이들) - 미니 9집 [We made] (Mono Ver.)",
+      "artist": "아이들(i-dle)",
+      "price": 19400,
+      "originalPrice": 24200,
+      "discount": 20,
+      "productCode": "8804775465291",
+      "releaseDate": "2026-07-06",
+      "media": "CD",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "388 원",
+      "image": "img/new_products/08_idle_mono.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/new_products/detail/new8_idle_mono_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "Mono Ver.",
+          "items": [
+            "OUTER SLEEVE : 113 x 163 x 30 (mm) / 1종",
+            "OUTBOX : 113 x 163 x 30 (mm) / 1종",
+            "ACCORDION BOOKLET : 1,000 x 150 (mm) / 20p / 3종",
+            "PHOTO CARD : 55 x 85 (mm) / 5종 중 랜덤 2종 삽입",
+            "POSTCARD (LYRICS CARD) : 150 x 100 (mm) / 3종",
+            "STICKER : 100 x 150 (mm) / 1종 삽입",
+            "BOOKMARK : 50 x 90 (mm) / 1종 삽입",
+            "MINI CD-R : 80 x 80 (mm) / 1종",
+            "초도 한정 POSTER : 750 x 520 (mm) / 1종 증정"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224396/cid/879"
+    },
+    "new-9": {
+      "id": "new-9",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(女)",
+        "UAU"
+      ],
+      "name": "유아유(UAU) - 미니 앨범 2집 Playlist #Your Youth [MD VER.] (한정반)",
+      "artist": "유아유(UAU)",
+      "price": 20900,
+      "originalPrice": 26100,
+      "discount": 20,
+      "productCode": "8809957312806",
+      "releaseDate": "2026-07-01",
+      "media": "CD",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "418 원",
+      "image": "img/new_products/09_uau_md.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/new_products/detail/new9_uau_md_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "1. Tuesday",
+        "2. GENE *Title",
+        "3. Stand By Me",
+        "4. Cause I Wanna Feel Your Face",
+        "5. Echo",
+        "6. Comma 9999"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "MD VER. / 한정반",
+          "items": [
+            "OUTBOX : 130x160x17mm / 1종",
+            "PVC POUCH : 110x75mm / 1종",
+            "CARABINER : 1종",
+            "ACRYLIC CHARM : 25x60mm / 3종 중 랜덤 1종",
+            "CD-R : 120x120mm / 1종",
+            "EXCLUSIVE COLORING POSTCARD : 126x156mm / 3종 중 랜덤 1종",
+            "POSTCARD : 100x150mm / 3종 중 랜덤 1종",
+            "PHOTOCARD : 55x85mm / 6종 중 랜덤 3종",
+            "초도 한정 일부 랜덤 구성품 PHOTOCARD : 55x85mm / 3종 중 랜덤 1종"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224476/cid/879"
+    },
+    "new-10": {
+      "id": "new-10",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(女)",
+        "UAU"
+      ],
+      "name": "유아유(UAU) - 미니 앨범 2집 Playlist #Your Youth [COMPACT VER.] (Your ver., Youth ver.)",
+      "artist": "유아유(UAU)",
+      "price": 13400,
+      "originalPrice": 16800,
+      "discount": 20,
+      "productCode": "8809957312783",
+      "releaseDate": "2026-07-01",
+      "media": "CD",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "268 원",
+      "image": "img/new_products/10_uau_compact.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/new_products/detail/new10_uau_compact_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "1. Tuesday",
+        "2. GENE *Title",
+        "3. Stand By Me",
+        "4. Cause I Wanna Feel Your Face",
+        "5. Echo",
+        "6. Comma 9999"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "총 2버전 (Your ver. / Youth ver.)",
+          "items": [
+            "COVER : 130x130mm / 1종 (버전별 이미지 상이)",
+            "POSTER : 382x520mm / 1종 (버전별 이미지 상이)",
+            "CD-R : 120x120mm / 1종 (버전별 이미지 상이)",
+            "POSTCARD : 110x110mm / 3종 1세트 (버전별 이미지 상이)",
+            "PHOTOCARD : 55x85mm / 3종 중 랜덤 1종 (버전별 이미지 상이)"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224472/cid/879"
+    },
+    "new-11": {
+      "id": "new-11",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(女)",
+        "UAU"
+      ],
+      "name": "유아유(UAU) - 미니 앨범 2집 Playlist #Your Youth [PHOTOBOOK VER.]",
+      "artist": "유아유(UAU)",
+      "price": 18600,
+      "originalPrice": 23300,
+      "discount": 20,
+      "productCode": "8809957312790",
+      "releaseDate": "2026-07-01",
+      "media": "CD",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "372 원",
+      "image": "img/new_products/11_uau_photobook.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/new_products/detail/new11_uau_photobook_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "1. Tuesday",
+        "2. GENE *Title",
+        "3. Stand By Me",
+        "4. Cause I Wanna Feel Your Face",
+        "5. Echo",
+        "6. Comma 9999"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "PHOTOBOOK VER.",
+          "items": [
+            "PHOTOBOOK : 150x215mm / 72p / 1종",
+            "CD-R : 120x120mm / 1종",
+            "POSTER : 200x280mm / 3종 중 랜덤 1종",
+            "POSTCARD : 100x150mm / 3종 중 랜덤 1종",
+            "PHOTOCARD : 55x85mm / 3종 중 랜덤 1종"
+          ]
+        }
+      ],
+      "albumDescription": [
+        "데뷔 앨범 ‘Playlist #You Are You’을 통해 관계 속에서 변화하고 흔들리는 감정의 순간들을 담아냈던 유아유(UAU)가 미니 2집 ‘Playlist #Your Youth’로 돌아왔다.",
+        "이번 앨범은 뜨겁게 반짝이다가도 금세 스쳐 지나가는 시간의 흐름 속에 우리가 마주하게 되는 다양한 감정들을 유아유(UAU)만의 시선으로 풀어낸다.",
+        "기분 좋은 설렘과 거부할 수 없는 이끌림, 관계의 끝에서 마주한 단호함과 마음 한편에 메아리치는 여운, 그리고 마침내 찾아오는 덤덤한 이별까지.",
+        "쉽게 설명할 수 없지만 누구나 한 번쯤 지나왔을 순간들을 하나의 플레이리스트처럼 엮어내며, 감정의 소용돌이 속에서도 끝내 잃지 말아야 할 ‘나’라는 존재를 이야기한다."
+      ],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224468/cid/879"
+    },
+    "new-12": {
+      "id": "new-12",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(男)",
+        "SEVENTEEN"
+      ],
+      "name": "V8(SEVENTEEN) - 1st Mini Album 'V8' KiT Ver.",
+      "artist": "세븐틴(SEVENTEEN)",
+      "price": 23700,
+      "originalPrice": 29600,
+      "discount": 20,
+      "productCode": "8800374619066",
+      "releaseDate": "2026-06-29",
+      "media": "KiT Album",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "474 원",
+      "image": "img/new_products/12_v8_kit.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/new_products/detail/new12_v8_kit_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "총 1종",
+          "items": [
+            "ALBUM PACKAGE : 1종 / W134 X H100 X T36 (mm)",
+            "KiT : 1종 / W60 X H60 X T13 (mm)",
+            "BALL CHAIN : 1종 / W160 (mm)",
+            "TITLE & CREDIT CARD : 1종 / W89 X H122 (mm)",
+            "POSTCARD : 1종 / W122 X H89 (mm)",
+            "PHOTOCARD : 16종 / W85 X H119 (mm)",
+            "SELFIE PHOTOCARD : 2종 / W55 X H85 (mm)"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224393/cid/879"
+    },
+    "new-13": {
+      "id": "new-13",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(男)",
+        "SEVENTEEN"
+      ],
+      "name": "V8(SEVENTEEN) - 1st Mini Album 'V8' Compact Ver.",
+      "artist": "세븐틴(SEVENTEEN)",
+      "price": 12700,
+      "originalPrice": 15800,
+      "discount": 20,
+      "productCode": "8800370679637",
+      "releaseDate": "2026-06-29",
+      "media": "CD",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "254 원",
+      "image": "img/new_products/13_v8_compact.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/new_products/detail/new13_v8_compact_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "총 1종",
+          "items": [
+            "FOIL PACKAGE : 1종 / W115 X H145 (mm)",
+            "PHOTOCARD : 6종 중 1종 랜덤 삽입 / W55 X H85 (mm)",
+            "STICKER : 1종 / W60 X H60 (mm)",
+            "MINI CD-R : 3종 중 1종 랜덤 삽입 / W85 X H85 (mm)",
+            "FOLDED POSTER : 3종 중 1종 랜덤 삽입 / W234 X H198 (mm)",
+            "PHOTOBOOK : 3종 중 1종 랜덤 삽입 / W95 X H120 (mm) / 12p"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224381/cid/879"
+    },
+    "new-14": {
+      "id": "new-14",
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(男)",
+        "SEVENTEEN"
+      ],
+      "name": "V8(SEVENTEEN) - 1st Mini Album 'V8' [커버랜덤]",
+      "artist": "세븐틴(SEVENTEEN)",
+      "price": 20900,
+      "originalPrice": 26100,
+      "discount": 20,
+      "productCode": "8800370679620",
+      "releaseDate": "2026-06-29",
+      "media": "CD",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "418 원",
+      "image": "img/new_products/14_v8_random.webp",
+      "gallery": [],
+      "hideThumbnails": true,
+      "detailHeroImage": "img/new_products/detail/new14_v8_random_detail.webp",
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "추후 공개"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "versions": [
+        {
+          "title": "RATS NEST Ver.",
+          "items": [
+            "OUTSLEEVE : 각 버전별 1종 / W250 X H250 X T10 (mm)",
+            "PHOTOBOOK(+TEARING POSTER) : 각 버전별 1종 / W245 X H245 (mm) / 72p",
+            "CD-R : 각 버전별 1종",
+            "STICKER : 각 버전별 2종 / W60 X H60 (mm), W120 X H40 (mm)",
+            "PHOTOCARD : 각 버전별 4종 중 1종 랜덤 삽입 / W55 X H85 (mm)",
+            "PHOTOCARD (UNIT) : 각 버전별 1종 / W55 X H85 (mm)",
+            "LYRIC PAPER : 각 버전별 1종 / W240 X H240 (mm)",
+            "FOLDED POSTER : 각 버전별 1종 / W352 X H220 (mm)"
+          ]
+        },
+        {
+          "title": "REV Ver.",
+          "items": [
+            "OUTSLEEVE : 각 버전별 1종 / W250 X H250 X T10 (mm)",
+            "PHOTOBOOK(+TEARING POSTER) : 각 버전별 1종 / W245 X H245 (mm) / 72p",
+            "CD-R : 각 버전별 1종",
+            "STICKER : 각 버전별 2종 / W60 X H60 (mm), W120 X H40 (mm)",
+            "PHOTOCARD : 각 버전별 4종 중 1종 랜덤 삽입 / W55 X H85 (mm)",
+            "PHOTOCARD (UNIT) : 각 버전별 1종 / W55 X H85 (mm)",
+            "LYRIC PAPER : 각 버전별 1종 / W240 X H240 (mm)",
+            "FOLDED POSTER : 각 버전별 1종 / W352 X H220 (mm)"
+          ]
+        }
+      ],
+      "albumDescription": [],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224373/cid/879"
+    },
+    "new-15": {
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(男)",
+        "ATEEZ"
+      ],
+      "artist": "에이티즈(ATEEZ)",
+      "price": 18600,
+      "originalPrice": 23300,
+      "discount": 20,
+      "productCode": "8803581204315",
+      "releaseDate": "2026-06-26",
+      "media": "CD",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "372 원",
+      "gallery": [],
+      "hideThumbnails": true,
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "1. BAD",
+        "2. MAMACITA",
+        "3. TOXIN",
+        "4. Fallin'",
+        "5. Body"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "albumDescription": [
+        "ATEEZ - 14TH MINI ALBUM [GOLDEN HOUR : Part.5]",
+        "본능과 감각이 앞서는 순간을 유쾌하게 만끽하며, 소프루를 쫓는 ATEEZ(에이티즈)",
+        "전염의 근원, 마음 깊은 곳의 본능을 마주하는 [GOLDEN HOUR] 다섯 번째 이야기",
+        "아슬아슬하게 터져나오는 뜨거운 감정과 열기를 담아낸 ATEEZ(에이티즈)의 ‘BAD’"
+      ],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "id": "new-15",
+      "name": "ATEEZ(에이티즈) - GOLDEN HOUR : Part.5 [Z Ver.]",
+      "image": "img/new_products/15_ateez_z.webp",
+      "detailHeroImage": "img/new_products/detail/new15_ateez_z_detail.webp",
+      "versions": [
+        {
+          "title": "Z Ver.",
+          "items": [
+            "DUST JACKET : 3 Versions / 1EA",
+            "PHOTOBOOK : 3 Versions / 1EA",
+            "DISC : 3 Versions / 1EA",
+            "PHOTOCARD A : 3 Versions / RANDOM 1EA (1 out of 8)",
+            "PHOTOCARD Z : 3 Versions / RANDOM 1EA (1 out of 8)",
+            "CHARACTER CARD : 3 Versions / RANDOM 1EA (1 out of 8)",
+            "POSTCARD : 3 Versions / RANDOM 1EA (1 out of 8)",
+            "PLAYING PAPER : 3 Versions / 1EA",
+            "MINI POSTER : 3 Versions / 1EA",
+            "STICKER : 3 Versions / 1EA"
+          ]
+        }
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224272/cid/879"
+    },
+    "new-16": {
+      "kind": "product",
+      "template": "musickorea-detail",
+      "section": "신규상품",
+      "breadcrumb": [
+        "HOME",
+        "신규상품",
+        "국내상품",
+        "K-POP(男)",
+        "ATEEZ"
+      ],
+      "artist": "에이티즈(ATEEZ)",
+      "price": 18600,
+      "originalPrice": 23300,
+      "discount": 20,
+      "productCode": "8803581204315",
+      "releaseDate": "2026-06-26",
+      "media": "CD",
+      "shippingMethod": "CJ 대한통운 / 한진택배",
+      "shippingFee": "3,000원 (5 만원이상 무료)",
+      "mileage": "372 원",
+      "gallery": [],
+      "hideThumbnails": true,
+      "badges": [],
+      "trackListTitle": "TRACK LIST",
+      "trackList": [
+        "1. BAD",
+        "2. MAMACITA",
+        "3. TOXIN",
+        "4. Fallin'",
+        "5. Body"
+      ],
+      "detailInfoTitle": "DETAIL INFO",
+      "albumDescription": [
+        "ATEEZ - 14TH MINI ALBUM [GOLDEN HOUR : Part.5]",
+        "본능과 감각이 앞서는 순간을 유쾌하게 만끽하며, 소프루를 쫓는 ATEEZ(에이티즈)",
+        "전염의 근원, 마음 깊은 곳의 본능을 마주하는 [GOLDEN HOUR] 다섯 번째 이야기",
+        "아슬아슬하게 터져나오는 뜨거운 감정과 열기를 담아낸 ATEEZ(에이티즈)의 ‘BAD’"
+      ],
+      "shipping": [
+        "배송 방법: CJ대한통운 / 한진택배",
+        "배송 지역: 전국",
+        "배송 기간: 2~3일 소요 (영업일 기준)",
+        "고객님께서 주문하신 상품은 결제(입금) 확인 후 발송됩니다.",
+        "상품 종류에 따라 출고가 다소 지연될 수 있습니다.",
+        "일반상품과 예약상품을 함께 구매하실 경우 예약상품 입고 일정에 맞춰 일괄 배송됩니다.",
+        "빠른 수령을 원하실 경우 일반상품과 예약상품을 나눠 주문해 주세요.",
+        "예약상품의 입고 일정은 제작사 사정에 따라 변동될 수 있습니다."
+      ],
+      "payment": [
+        "결제 수단: 카드 결제 / 실시간 계좌이체 / 무통장 입금(가상계좌)",
+        "결제 대행사: (주)케이지이니시스(KG Inicis), 엑심베이(Eximbay)",
+        "고액 결제 시 카드사 확인 전화를 드릴 수 있으며, 이상 거래로 판단될 경우 주문이 보류되거나 취소될 수 있습니다.",
+        "무통장 입금은 자동 입금 확인 처리되며, 별도의 확인 요청은 필요하지 않습니다.",
+        "주문 후 2일 이내 미입금 시 주문은 자동 취소됩니다."
+      ],
+      "returnsPossible": [
+        "상품 수령 후 7일 이내 요청 시",
+        "표시된 내용과 다른 상품을 공급받은 경우: 공급일로부터 3개월 이내 또는 사실을 안 날로부터 30일 이내"
+      ],
+      "returnsImpossible": [
+        "고객 부주의로 인한 상품 훼손",
+        "포장 개봉 또는 포장 훼손으로 상품 가치가 상실된 경우",
+        "사용 또는 일부 소비로 인해 상품 가치가 현저히 감소한 경우",
+        "시간의 경과로 재판매가 곤란할 정도로 상품등의 가치가 현저히 감소한 경우",
+        "복제 가능한 상품의 포장이 훼손된 경우"
+      ],
+      "returnsNote": [
+        "단순 변심 또는 버전 교환 등 개인 사유에 의한 교환/반품 시 왕복 배송비는 고객 부담입니다.",
+        "자세한 문의는 홈페이지 내 Q&A 게시판을 이용해 주세요."
+      ],
+      "id": "new-16",
+      "name": "ATEEZ(에이티즈) - GOLDEN HOUR : Part.5 [Diary Ver.]",
+      "image": "img/new_products/16_ateez_diary.webp",
+      "detailHeroImage": "img/new_products/detail/new16_ateez_diary_detail.webp",
+      "versions": [
+        {
+          "title": "Diary Ver.",
+          "items": [
+            "DUST JACKET : 3 Versions / 1EA",
+            "PHOTOBOOK : 3 Versions / 1EA",
+            "DISC : 3 Versions / 1EA",
+            "PHOTOCARD A : 3 Versions / RANDOM 1EA (1 out of 8)",
+            "PHOTOCARD Z : 3 Versions / RANDOM 1EA (1 out of 8)",
+            "CHARACTER CARD : 3 Versions / RANDOM 1EA (1 out of 8)",
+            "POSTCARD : 3 Versions / RANDOM 1EA (1 out of 8)",
+            "PLAYING PAPER : 3 Versions / 1EA",
+            "MINI POSTER : 3 Versions / 1EA",
+            "STICKER : 3 Versions / 1EA",
+            "DIARY BOOK : 1 Version / 1EA (*DIARY Ver. ONLY)"
+          ]
+        }
+      ],
+      "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224268/cid/879"
+    },
+    "genre-kpop-banner": {
+      "id": "genre-kpop-banner",
+      "kind": "banner",
+      "section": "장르별 추천음악",
+      "name": "KPOP",
+      "image": "img/genre/kpop_banner.webp",
+      "gallery": [
+        "img/genre/kpop_banner.webp"
+      ],
+      "description": "KPOP 장르 추천음악 배너 상세페이지입니다.",
+      "theme": "",
+      "verifiedOriginal": false
+    },
+    "genre-kpop-1": {
+      "id": "genre-kpop-1",
+      "kind": "product",
+      "section": "장르별 추천음악 · KPOP",
+      "name": "BLACKPINK - 3rd MINI ALBUM [DEADLINE] MOOD LIGHT Ver.",
+      "artist": "BLACKPINK",
+      "image": "img/genre/kpop_1.webp",
+      "gallery": [
+        "img/genre/kpop_1.webp"
+      ],
+      "price": 59400,
+      "originalPrice": 74300,
+      "discount": 20,
+      "badges": [],
+      "notice": "",
+      "period": "",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 장르별 추천음악 · KPOP 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "verifiedOriginal": false
+    },
+    "genre-kpop-2": {
+      "id": "genre-kpop-2",
+      "kind": "product",
+      "section": "장르별 추천음악 · KPOP",
+      "name": "스트레이 키즈(Stray Kids) - SKZ IT TAPE 'DO IT'(EVIL SKZOO SPEA...",
+      "artist": "스트레이 키즈(Stray Kids)",
+      "image": "img/genre/kpop_2.webp",
+      "gallery": [
+        "img/genre/kpop_2.webp"
+      ],
+      "price": 99600,
+      "originalPrice": 124500,
+      "discount": 20,
+      "badges": [],
+      "notice": "",
+      "period": "",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 장르별 추천음악 · KPOP 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "verifiedOriginal": false
+    },
+    "genre-kpop-3": {
+      "id": "genre-kpop-3",
+      "kind": "product",
+      "section": "장르별 추천음악 · KPOP",
+      "name": "TWICE - TEN: The Story Goes On (Party lovely ver.)",
+      "artist": "TWICE",
+      "image": "img/genre/kpop_3.webp",
+      "gallery": [
+        "img/genre/kpop_3.webp"
+      ],
+      "price": 37200,
+      "originalPrice": 46500,
+      "discount": 20,
+      "badges": [],
+      "notice": "",
+      "period": "",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 장르별 추천음악 · KPOP 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "verifiedOriginal": false
+    },
+    "genre-kpop-4": {
+      "id": "genre-kpop-4",
+      "kind": "product",
+      "section": "장르별 추천음악 · KPOP",
+      "name": "아이유 - EP '꽃갈피 셋' CDP ver.",
+      "artist": "아이유",
+      "image": "img/genre/kpop_4.webp",
+      "gallery": [
+        "img/genre/kpop_4.webp"
+      ],
+      "price": 89100,
+      "originalPrice": 111400,
+      "discount": 20,
+      "badges": [],
+      "notice": "",
+      "period": "",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 장르별 추천음악 · KPOP 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "verifiedOriginal": false
+    },
+    "genre-kpop-5": {
+      "id": "genre-kpop-5",
+      "kind": "product",
+      "section": "장르별 추천음악 · KPOP",
+      "name": "엔시티 위시(NCT WISH) - 싱글 [WISH] (WICHU Ver.)(스마트앨범)",
+      "artist": "엔시티 위시(NCT WISH)",
+      "image": "img/genre/kpop_5.webp",
+      "gallery": [
+        "img/genre/kpop_5.webp"
+      ],
+      "price": 29700,
+      "originalPrice": 37200,
+      "discount": 20,
+      "badges": [],
+      "notice": "",
+      "period": "",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 장르별 추천음악 · KPOP 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "verifiedOriginal": false
+    },
+    "genre-hiphop-banner": {
+      "id": "genre-hiphop-banner",
+      "kind": "banner",
+      "section": "장르별 추천음악",
+      "name": "HIPHOP",
+      "image": "img/genre/hiphop_banner.webp",
+      "gallery": [
+        "img/genre/hiphop_banner.webp"
+      ],
+      "description": "HIPHOP 장르 추천음악 배너 상세페이지입니다.",
+      "theme": "",
+      "verifiedOriginal": false
+    },
+    "genre-hiphop-1": {
+      "id": "genre-hiphop-1",
+      "kind": "product",
+      "section": "장르별 추천음악 · HIPHOP",
+      "name": "Rosy Barbie - Barbie World",
+      "artist": "Rosy Barbie",
+      "image": "img/genre/hiphop_1.webp",
+      "gallery": [
+        "img/genre/hiphop_1.webp"
+      ],
+      "price": 18600,
+      "originalPrice": 23300,
+      "discount": 20,
+      "badges": [],
+      "notice": "",
+      "period": "",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 장르별 추천음악 · HIPHOP 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "verifiedOriginal": false
+    },
+    "genre-hiphop-2": {
+      "id": "genre-hiphop-2",
+      "kind": "product",
+      "section": "장르별 추천음악 · HIPHOP",
+      "name": "트레이드 엘(TRADE L) - AURORA",
+      "artist": "트레이드 엘(TRADE L)",
+      "image": "img/genre/hiphop_2.webp",
+      "gallery": [
+        "img/genre/hiphop_2.webp"
+      ],
+      "price": 16500,
+      "originalPrice": 20600,
+      "discount": 20,
+      "badges": [],
+      "notice": "",
+      "period": "",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 장르별 추천음악 · HIPHOP 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "verifiedOriginal": false
+    },
+    "genre-hiphop-3": {
+      "id": "genre-hiphop-3",
+      "kind": "product",
+      "section": "장르별 추천음악 · HIPHOP",
+      "name": "블라세(BLASÉ) - 정규 [BLASÉ 2]",
+      "artist": "블라세(BLASÉ)",
+      "image": "img/genre/hiphop_3.webp",
+      "gallery": [
+        "img/genre/hiphop_3.webp"
+      ],
+      "price": 15000,
+      "originalPrice": 18700,
+      "discount": 20,
+      "badges": [],
+      "notice": "",
+      "period": "",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 장르별 추천음악 · HIPHOP 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "verifiedOriginal": false
+    },
+    "genre-hiphop-4": {
+      "id": "genre-hiphop-4",
+      "kind": "product",
+      "section": "장르별 추천음악 · HIPHOP",
+      "name": "BILL STAX(빌스택스) - LIVE FAST DIE SKRT (카세트테이프)",
+      "artist": "BILL STAX(빌스택스)",
+      "image": "img/genre/hiphop_4.webp",
+      "gallery": [
+        "img/genre/hiphop_4.webp"
+      ],
+      "price": 42000,
+      "originalPrice": 53000,
+      "discount": 21,
+      "badges": [],
+      "notice": "",
+      "period": "",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 장르별 추천음악 · HIPHOP 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "verifiedOriginal": false
+    },
+    "genre-hiphop-5": {
+      "id": "genre-hiphop-5",
+      "kind": "product",
+      "section": "장르별 추천음악 · HIPHOP",
+      "name": "pH-1, 릴보이 (lIlBOI), Woodie Gochild, BIG Naughty(서동현) - HIGH...",
+      "artist": "pH-1, 릴보이 (lIlBOI), Woodie Gochild, BIG Naughty(서동현)",
+      "image": "img/genre/hiphop_5.webp",
+      "gallery": [
+        "img/genre/hiphop_5.webp"
+      ],
+      "price": 17900,
+      "originalPrice": 22300,
+      "discount": 20,
+      "badges": [],
+      "notice": "",
+      "period": "",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 장르별 추천음악 · HIPHOP 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "verifiedOriginal": false
+    },
+    "genre-ost-banner": {
+      "id": "genre-ost-banner",
+      "kind": "banner",
+      "section": "장르별 추천음악",
+      "name": "OST",
+      "image": "img/genre/ost_banner.webp",
+      "gallery": [
+        "img/genre/ost_banner.webp"
+      ],
+      "description": "OST 장르 추천음악 배너 상세페이지입니다.",
+      "theme": "",
+      "verifiedOriginal": false
+    },
+    "genre-ost-1": {
+      "id": "genre-ost-1",
+      "kind": "product",
+      "section": "장르별 추천음악 · OST",
+      "name": "O.S.T. - 모두가 자신의 무가치함과 싸우고 있다",
+      "artist": "O.S.T.",
+      "image": "img/genre/ost_1.webp",
+      "gallery": [
+        "img/genre/ost_1.webp"
+      ],
+      "price": 21600,
+      "originalPrice": 27000,
+      "discount": 20,
+      "badges": [],
+      "notice": "",
+      "period": "",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 장르별 추천음악 · OST 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "verifiedOriginal": false
+    },
+    "genre-ost-2": {
+      "id": "genre-ost-2",
+      "kind": "product",
+      "section": "장르별 추천음악 · OST",
+      "name": "O.S.T. - 와일드 씽",
+      "artist": "O.S.T.",
+      "image": "img/genre/ost_2.webp",
+      "gallery": [
+        "img/genre/ost_2.webp"
+      ],
+      "price": 19900,
+      "originalPrice": 26000,
+      "discount": 23,
+      "badges": [],
+      "notice": "",
+      "period": "",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 장르별 추천음악 · OST 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "verifiedOriginal": false
+    },
+    "genre-ost-3": {
+      "id": "genre-ost-3",
+      "kind": "product",
+      "section": "장르별 추천음악 · OST",
+      "name": "O.S.T. - 오늘도 매진했습니다",
+      "artist": "O.S.T.",
+      "image": "img/genre/ost_3.webp",
+      "gallery": [
+        "img/genre/ost_3.webp"
+      ],
+      "price": 29500,
+      "originalPrice": 36900,
+      "discount": 20,
+      "badges": [],
+      "notice": "",
+      "period": "",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 장르별 추천음악 · OST 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "verifiedOriginal": false
+    },
+    "genre-ost-4": {
+      "id": "genre-ost-4",
+      "kind": "product",
+      "section": "장르별 추천음악 · OST",
+      "name": "O.S.T. - 선재 업고 튀어",
+      "artist": "O.S.T.",
+      "image": "img/genre/ost_4.webp",
+      "gallery": [
+        "img/genre/ost_4.webp"
+      ],
+      "price": 43100,
+      "originalPrice": 53900,
+      "discount": 20,
+      "badges": [],
+      "notice": "",
+      "period": "",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 장르별 추천음악 · OST 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "verifiedOriginal": false
+    },
+    "genre-ost-5": {
+      "id": "genre-ost-5",
+      "kind": "product",
+      "section": "장르별 추천음악 · OST",
+      "name": "O.S.T. - 우주메리미",
+      "artist": "O.S.T.",
+      "image": "img/genre/ost_5.webp",
+      "gallery": [
+        "img/genre/ost_5.webp"
+      ],
+      "price": 25300,
+      "originalPrice": 31600,
+      "discount": 20,
+      "badges": [],
+      "notice": "",
+      "period": "",
+      "rank": null,
+      "description": "뮤직코리아 메인페이지의 장르별 추천음악 · OST 영역에서 선택한 상품입니다.",
+      "sourceUrl": "",
+      "verifiedOriginal": false
+    }
+  }
+}

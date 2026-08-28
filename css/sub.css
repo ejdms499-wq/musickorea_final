@@ -1,0 +1,1377 @@
+/* ============================================================
+   SUB.CSS — MusicKorea 상품 상세페이지
+   ============================================================ */
+
+:root {
+  --mk-pink: #ff3d5f;
+  --mk-text: #111;
+  --mk-muted: #8c8c8c;
+  --mk-line: #e8e8e8;
+  --mk-soft: #f7f7f7;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  color: var(--mk-text);
+  background: #fff;
+}
+
+.mk-sub-header-shell {
+  background: #fff;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.mk-sub-header-shell .mk-header {
+  position: relative;
+  color: #111;
+}
+
+.mk-sub-header-shell .mk-search {
+  background: #f5f5f5;
+}
+
+.mk-sub-header-shell .mk-nav-link,
+.mk-sub-header-shell .mk-search input {
+  color: #111;
+}
+
+.mk-detail-page {
+  background: #fff;
+}
+
+.mk-detail-container {
+  width: min(1120px, calc(100% - 48px));
+  margin: 0 auto;
+}
+
+.mk-detail-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 26px 0 18px;
+  color: #9b9b9b;
+  font-size: 11px;
+}
+
+.mk-detail-breadcrumb i {
+  font-style: normal;
+  color: #c4c4c4;
+}
+
+.mk-detail-product {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(390px, .9fr);
+  gap: 74px;
+  padding: 20px 0 76px;
+  align-items: start;
+}
+
+/* gallery */
+
+.mk-detail-gallery {
+  display: grid;
+  grid-template-columns: 74px minmax(0, 1fr);
+  gap: 16px;
+}
+
+.mk-detail-thumbs {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.mk-detail-thumb {
+  width: 74px;
+  height: 74px;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  border-radius: 4px;
+  background: #fff;
+  cursor: pointer;
+}
+
+.mk-detail-thumb.is-active {
+  border: 1px solid #111;
+}
+
+.mk-detail-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.mk-detail-main-image {
+  min-height: 510px;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  border-radius: 4px;
+  background: #fafafa;
+}
+
+.mk-detail-main-image img {
+  width: 100%;
+  height: 100%;
+  max-height: 620px;
+  object-fit: contain;
+  display: block;
+}
+
+/* right info */
+
+.mk-detail-info {
+  padding-top: 2px;
+}
+
+.mk-detail-badges {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 12px;
+}
+
+.mk-detail-badges span {
+  padding: 4px 8px;
+  border: 1px solid var(--mk-pink);
+  color: var(--mk-pink);
+  background: #fff;
+  font-size: 10px;
+  line-height: 1;
+}
+
+.mk-detail-info h1 {
+  margin: 0;
+  font-size: 23px;
+  line-height: 1.5;
+  font-weight: 700;
+  letter-spacing: -.5px;
+  word-break: keep-all;
+}
+
+.mk-detail-price {
+  display: flex;
+  align-items: baseline;
+  gap: 9px;
+  margin-top: 27px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--mk-line);
+}
+
+.mk-detail-price strong {
+  color: #111;
+  font-size: 25px;
+  font-weight: 850;
+}
+
+.mk-detail-price del {
+  color: #aaa;
+  font-size: 13px;
+}
+
+.mk-detail-price span {
+  order: -1;
+  color: var(--mk-pink);
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.mk-detail-meta {
+  margin: 0;
+  padding: 13px 0;
+  border-bottom: 1px solid var(--mk-line);
+}
+
+.mk-detail-meta > div {
+  min-height: 38px;
+  display: grid;
+  grid-template-columns: 105px minmax(0, 1fr);
+  align-items: center;
+}
+
+.mk-detail-meta dt {
+  color: #777;
+  font-size: 12px;
+}
+
+.mk-detail-meta dd {
+  margin: 0;
+  color: #222;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.mk-detail-qty-line {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 0;
+  border-bottom: 1px solid var(--mk-line);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.mk-detail-qty {
+  display: grid;
+  grid-template-columns: 36px 50px 36px;
+  height: 38px;
+  border: 1px solid #ddd;
+}
+
+.mk-detail-qty button,
+.mk-detail-qty input {
+  border: 0;
+  background: #fff;
+}
+
+.mk-detail-qty button {
+  cursor: pointer;
+  font-size: 17px;
+}
+
+.mk-detail-qty input {
+  width: 100%;
+  text-align: center;
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+  outline: none;
+  font-size: 12px;
+}
+
+.mk-detail-total {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 24px 0 0;
+}
+
+.mk-detail-total span {
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.mk-detail-total strong {
+  font-size: 24px;
+  font-weight: 850;
+}
+
+.mk-detail-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 23px;
+}
+
+.mk-detail-actions button {
+  height: 54px;
+  font-size: 13px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.mk-detail-cart {
+  border: 1px solid #111;
+  background: #fff;
+  color: #111;
+}
+
+.mk-detail-buy {
+  border: 1px solid #111;
+  background: #111;
+  color: #fff;
+}
+
+/* tabs */
+
+.mk-detail-tabs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-top: 1px solid #111;
+  border-bottom: 1px solid #ddd;
+}
+
+.mk-detail-tabs a {
+  height: 58px;
+  display: grid;
+  place-items: center;
+  color: #888;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.mk-detail-tabs a.is-active {
+  color: #111;
+  border-bottom: 2px solid #111;
+}
+
+/* detail */
+
+.mk-product-detail-section {
+  padding: 74px 0 90px;
+}
+
+.mk-product-detail-section > h2 {
+  margin: 0 0 48px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.mk-product-detail-hero {
+  width: min(720px, 100%);
+  margin: 0 auto;
+  padding: 48px;
+  box-sizing: border-box;
+  background: #fafafa;
+}
+
+.mk-product-detail-hero img {
+  width: 100%;
+  display: block;
+}
+
+.mk-product-detail-copy {
+  width: min(780px, 100%);
+  margin: 62px auto 0;
+}
+
+.mk-product-detail-copy h3 {
+  margin: 42px 0 15px;
+  font-size: 17px;
+  font-weight: 850;
+  letter-spacing: .02em;
+}
+
+.mk-track-note {
+  margin: 0 0 10px;
+  color: #555;
+  font-size: 12px;
+}
+
+.mk-track-list,
+.mk-version-card ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: #444;
+  font-size: 12px;
+  line-height: 1.95;
+}
+
+.mk-version-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  margin-top: 18px;
+}
+
+.mk-version-card {
+  padding: 24px;
+  border: 1px solid #eee;
+  background: #fff;
+}
+
+.mk-version-image {
+  aspect-ratio: 1 / 1;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  background: #fafafa;
+}
+
+.mk-version-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.mk-version-card h4 {
+  margin: 22px 0 12px;
+  font-size: 14px;
+}
+
+/* policy */
+
+.mk-detail-policy {
+  border-top: 1px solid #111;
+}
+
+.mk-detail-policy article {
+  padding: 34px 0 38px;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.mk-detail-policy h2 {
+  margin: 0 0 19px;
+  font-size: 16px;
+  font-weight: 850;
+}
+
+.mk-detail-policy h3 {
+  margin: 24px 0 8px;
+  font-size: 13px;
+}
+
+.mk-detail-policy ul {
+  margin: 0;
+  padding-left: 17px;
+  color: #666;
+  font-size: 12px;
+  line-height: 1.9;
+}
+
+.mk-return-note {
+  margin-top: 18px;
+  color: #777;
+  font-size: 11px;
+  line-height: 1.8;
+}
+
+.mk-return-note p {
+  margin: 3px 0;
+}
+
+/* simple fallback */
+
+.mk-simple-detail {
+  padding: 100px 0;
+  text-align: center;
+}
+
+.mk-simple-detail img {
+  width: min(560px, 90%);
+}
+
+.mk-simple-detail h1 {
+  margin: 32px 0;
+}
+
+.mk-simple-detail a,
+.mk-detail-error a {
+  color: #111;
+}
+
+.mk-detail-error {
+  min-height: 500px;
+  display: grid;
+  place-items: center;
+  align-content: center;
+  gap: 20px;
+  text-align: center;
+}
+
+/* responsive */
+
+@media (max-width: 920px) {
+  .mk-detail-product {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .mk-detail-info {
+    max-width: 680px;
+  }
+}
+
+@media (max-width: 680px) {
+  .mk-detail-container {
+    width: calc(100% - 30px);
+  }
+
+  .mk-detail-gallery {
+    grid-template-columns: 1fr;
+  }
+
+  .mk-detail-thumbs {
+    order: 2;
+    flex-direction: row;
+    overflow-x: auto;
+  }
+
+  .mk-detail-thumb {
+    flex: 0 0 66px;
+    width: 66px;
+    height: 66px;
+  }
+
+  .mk-detail-main-image {
+    min-height: auto;
+    aspect-ratio: 1 / 1;
+  }
+
+  .mk-detail-info h1 {
+    font-size: 20px;
+  }
+
+  .mk-detail-actions {
+    grid-template-columns: 1fr;
+  }
+
+  .mk-version-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .mk-product-detail-hero {
+    padding: 22px;
+  }
+}
+
+
+/* JENNIE Fallen Angel 상세 대표 이미지 */
+.mk-product-detail-hero {
+  background: #fff;
+  padding: 0;
+}
+
+.mk-product-detail-hero img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+.mk-detail-main-image {
+  background: #fff;
+}
+
+.mk-detail-main-image img {
+  object-fit: contain;
+}
+
+
+/* ============================================================
+   JENNIE EXACT PRODUCT DETAIL FIX
+   ============================================================ */
+
+/* 왼쪽 세로 썸네일/배너 제거 */
+.mk-detail-gallery-single {
+  display: block;
+}
+
+.mk-detail-gallery-single .mk-detail-main-image {
+  width: 100%;
+  min-height: 520px;
+  background: #fff;
+}
+
+.mk-detail-gallery-single .mk-detail-main-image img {
+  width: 100%;
+  height: 100%;
+  max-height: 620px;
+  object-fit: contain;
+}
+
+/* 상품상세정보의 실제 합성 상세 이미지 */
+.mk-product-detail-hero {
+  width: min(900px, 100%);
+  margin: 0 auto 56px;
+  padding: 0;
+  background: #fff;
+}
+
+.mk-product-detail-hero img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
+}
+
+.mk-detail-info-version {
+  margin-top: 24px;
+}
+
+.mk-detail-info-version h4 {
+  margin: 0 0 9px;
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.mk-detail-info-version ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: #444;
+  font-size: 12px;
+  line-height: 1.95;
+}
+
+/* 상세페이지에서는 예약/세트 배지 영역 자체를 표시하지 않음 */
+.mk-detail-badges {
+  display: none !important;
+}
+
+
+/* ============================================================
+   CxM DOUBLE UP - 긴 상품상세 이미지
+   ============================================================ */
+
+.mk-product-detail-hero img[src*="cxm_double_up_live_party_detail"] {
+  width: min(680px, 100%);
+  margin: 0 auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+@media (max-width: 680px) {
+  .mk-product-detail-hero img[src*="cxm_double_up_live_party_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   2000 TAPE - 긴 상품상세 이미지
+   ============================================================ */
+.mk-product-detail-hero img[src*="haon_2000_tape_detail"] {
+  width: min(680px, 100%);
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  object-fit: contain;
+}
+
+@media (max-width: 680px) {
+  .mk-product-detail-hero img[src*="haon_2000_tape_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   JISOO CLICK VINYL DETAIL
+   ============================================================ */
+
+.mk-product-detail-notice {
+  width: min(980px, 100%);
+  margin: 0 auto 46px;
+  background: #000;
+}
+
+.mk-product-detail-notice img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
+}
+
+.mk-product-detail-hero img[src*="jisoo_click_vinyl_detail"] {
+  width: min(720px, 100%);
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  object-fit: contain;
+}
+
+.mk-album-description {
+  margin-top: 36px;
+  padding-top: 30px;
+  border-top: 1px solid #ededed;
+  color: #555;
+  font-size: 12px;
+  line-height: 1.9;
+}
+
+.mk-album-description p {
+  margin: 0 0 7px;
+}
+
+@media (max-width: 680px) {
+  .mk-product-detail-notice,
+  .mk-product-detail-hero img[src*="jisoo_click_vinyl_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   JISOO CLICK BABY BEAR NFC DETAIL
+   ============================================================ */
+.mk-product-detail-hero img[src*="jisoo_click_baby_bear_nfc_detail"] {
+  width: min(720px, 100%);
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  object-fit: contain;
+}
+
+@media (max-width: 680px) {
+  .mk-product-detail-hero img[src*="jisoo_click_baby_bear_nfc_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   JISOO CLICK PHOTOBOOK DETAIL
+   ============================================================ */
+.mk-product-detail-hero img[src*="jisoo_click_photobook_detail"] {
+  width: min(720px, 100%);
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  object-fit: contain;
+}
+
+@media (max-width: 680px) {
+  .mk-product-detail-hero img[src*="jisoo_click_photobook_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   PREORDER-8 / JISOO CLICK PHOTOBOOK
+   MusicKorea 상세페이지 구조 보정
+   기존 preorder-1~7에는 영향 없음
+   ============================================================ */
+
+.mk-pb-page {
+  width: min(1180px, calc(100% - 48px));
+  margin: 0 auto;
+  color: #111;
+}
+
+.mk-pb-product {
+  display: grid;
+  grid-template-columns: minmax(0, 540px) minmax(420px, 1fr);
+  gap: 82px;
+  align-items: start;
+  padding: 78px 0 88px;
+}
+
+.mk-pb-image-area {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  display: grid;
+  place-items: center;
+  background: #fff;
+}
+
+.mk-pb-main-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.mk-pb-info {
+  padding-top: 4px;
+}
+
+.mk-pb-info h1 {
+  margin: 0;
+  padding-bottom: 28px;
+  border-bottom: 1px solid #e5e5e5;
+  font-size: 22px;
+  line-height: 1.45;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  word-break: keep-all;
+}
+
+.mk-pb-price-row {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  padding: 25px 0 22px;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.mk-pb-price-row strong {
+  color: #ff3d5f;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.mk-pb-price-row del {
+  color: #aaa;
+  font-size: 13px;
+}
+
+.mk-pb-price-row span {
+  margin-left: auto;
+  color: #ff3d5f;
+  font-size: 15px;
+  font-weight: 800;
+}
+
+.mk-pb-meta {
+  margin: 0;
+  padding: 15px 0;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.mk-pb-meta > div {
+  display: grid;
+  grid-template-columns: 112px 1fr;
+  min-height: 37px;
+  align-items: center;
+}
+
+.mk-pb-meta dt {
+  color: #777;
+  font-size: 12px;
+}
+
+.mk-pb-meta dd {
+  margin: 0;
+  color: #222;
+  font-size: 12px;
+}
+
+.mk-pb-qty-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 0;
+  border-bottom: 1px solid #e8e8e8;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.mk-pb-qty {
+  display: grid;
+  grid-template-columns: 36px 48px 36px;
+  height: 38px;
+  border: 1px solid #d9d9d9;
+}
+
+.mk-pb-qty button,
+.mk-pb-qty input {
+  border: 0;
+  background: #fff;
+  color: #111;
+}
+
+.mk-pb-qty button {
+  cursor: pointer;
+  font-size: 17px;
+}
+
+.mk-pb-qty input {
+  width: 100%;
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+  text-align: center;
+  outline: none;
+  font-size: 12px;
+}
+
+.mk-pb-total {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 24px 0 0;
+}
+
+.mk-pb-total span {
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.mk-pb-total strong {
+  font-size: 23px;
+  font-weight: 800;
+}
+
+.mk-pb-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 22px;
+}
+
+.mk-pb-buttons button {
+  height: 54px;
+  font-size: 13px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.mk-pb-cart {
+  border: 1px solid #111;
+  background: #fff;
+}
+
+.mk-pb-buy {
+  border: 1px solid #ff3d5f;
+  background: #ff3d5f;
+  color: #fff;
+}
+
+.mk-pb-tabs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-top: 1px solid #111;
+  border-bottom: 1px solid #ddd;
+}
+
+.mk-pb-tabs a {
+  height: 60px;
+  display: grid;
+  place-items: center;
+  color: #999;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.mk-pb-tabs a.is-active {
+  color: #111;
+  border-bottom: 2px solid #111;
+}
+
+.mk-pb-detail {
+  padding: 72px 0 96px;
+}
+
+.mk-pb-detail > h2 {
+  margin: 0 0 44px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.mk-pb-detail-image {
+  width: min(900px, 100%);
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  object-fit: contain;
+}
+
+.mk-pb-copy {
+  width: min(820px, 100%);
+  margin: 64px auto 0;
+}
+
+.mk-pb-copy h3 {
+  margin: 38px 0 16px;
+  font-size: 17px;
+  font-weight: 800;
+}
+
+.mk-pb-track {
+  margin: 0;
+  padding-left: 21px;
+  color: #333;
+  font-size: 13px;
+  line-height: 2;
+}
+
+.mk-pb-detail-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: #333;
+  font-size: 13px;
+  line-height: 2;
+}
+
+.mk-pb-detail-list li::before {
+  content: "- ";
+}
+
+.mk-pb-description {
+  margin-top: 40px;
+  padding-top: 30px;
+  border-top: 1px solid #eee;
+  color: #555;
+  font-size: 13px;
+  line-height: 1.9;
+}
+
+.mk-pb-description p {
+  margin: 0 0 8px;
+}
+
+.mk-pb-policy {
+  border-top: 1px solid #111;
+}
+
+.mk-pb-policy article {
+  padding: 34px 0 38px;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.mk-pb-policy h2 {
+  margin: 0 0 18px;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.mk-pb-policy h3 {
+  margin: 23px 0 8px;
+  font-size: 13px;
+}
+
+.mk-pb-policy ul {
+  margin: 0;
+  padding-left: 18px;
+  color: #666;
+  font-size: 12px;
+  line-height: 1.9;
+}
+
+.mk-pb-note {
+  margin-top: 18px;
+  color: #777;
+  font-size: 11px;
+  line-height: 1.8;
+}
+
+.mk-pb-note p {
+  margin: 3px 0;
+}
+
+@media (max-width: 920px) {
+  .mk-pb-product {
+    grid-template-columns: 1fr;
+    gap: 36px;
+    padding-top: 45px;
+  }
+
+  .mk-pb-image-area {
+    max-width: 620px;
+  }
+
+  .mk-pb-info {
+    max-width: 680px;
+  }
+}
+
+@media (max-width: 680px) {
+  .mk-pb-page {
+    width: calc(100% - 30px);
+  }
+
+  .mk-pb-product {
+    padding: 30px 0 52px;
+  }
+
+  .mk-pb-info h1 {
+    font-size: 19px;
+  }
+
+  .mk-pb-buttons {
+    grid-template-columns: 1fr;
+  }
+
+  .mk-pb-detail {
+    padding-top: 52px;
+  }
+}
+
+
+/* ============================================================
+   PREORDER-9 / D.O DOPAMINE POP VER.
+   ============================================================ */
+.mk-pb-detail-image[src*="09_do_dopamine_pop_detail"] {
+  width: min(900px, 100%);
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  object-fit: contain;
+}
+
+
+/* PREORDER-10 / D.O DOPAMINE FIZZ VER. */
+.mk-pb-main-image[src*="10_do_fizz"] { object-fit: contain; }
+.mk-pb-detail-image[src*="10_do_fizz"] { width: min(700px, 100%); height:auto; margin:0 auto; display:block; object-fit:contain; }
+
+
+/* PREORDER 11~16 detail image */
+.mk-pb-detail-image[src*="_mwmeu_"],
+.mk-pb-detail-image[src*="_soyeon_"] {
+  width: min(900px, 100%);
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+
+/* ============================================================
+   RANK-1 / YEONJUN NO LABELS PART 02 COMPACT VER.
+   ============================================================ */
+.mk-pb-detail-image[src*="rank1_yeonjun_compact_detail"] {
+  display: block;
+  width: min(900px, 100%);
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+@media (max-width: 680px) {
+  .mk-pb-detail-image[src*="rank1_yeonjun_compact_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   RANK-2 / BOYNEXTDOOR HOME POCKET HOME
+   ============================================================ */
+.mk-pb-detail-image[src*="rank2_boynextdoor_detail"] {
+  display: block;
+  width: min(900px, 100%);
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+@media (max-width: 680px) {
+  .mk-pb-detail-image[src*="rank2_boynextdoor_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   MULTIPLE PRODUCT DETAIL IMAGES
+   ============================================================ */
+.mk-pb-detail-images {
+  width: min(900px, 100%);
+  margin: 0 auto;
+}
+
+.mk-pb-detail-images .mk-pb-detail-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto 28px;
+  object-fit: contain;
+}
+
+.mk-pb-detail-images .mk-pb-detail-image:last-child {
+  margin-bottom: 0;
+}
+
+/* RANK-3 / CORTIS GREENGREEN VINYL */
+.mk-pb-detail-image[src*="rank3_cortis_vinyl_lp_notice"],
+.mk-pb-detail-image[src*="rank3_cortis_vinyl_detail"] {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+@media (max-width: 680px) {
+  .mk-pb-detail-images {
+    width: 100%;
+  }
+
+  .mk-pb-detail-images .mk-pb-detail-image {
+    margin-bottom: 18px;
+  }
+}
+
+
+/* ============================================================
+   RANK-4 / YEONJUN NO LABELS PART 02 RANDOM COVER
+   ============================================================ */
+.mk-pb-detail-image[src*="rank4_yeonjun_cover_detail"] {
+  display: block;
+  width: min(900px, 100%);
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+@media (max-width: 680px) {
+  .mk-pb-detail-image[src*="rank4_yeonjun_cover_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   RANK-5/6 CORTIS
+   ============================================================ */
+.mk-pb-detail-image[src*="rank5_cortis_dice_detail"],
+.mk-pb-detail-image[src*="rank6_cortis_blue_lips_detail"] {
+  display: block;
+  width: min(900px, 100%);
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+.mk-pb-soldout {
+  margin-top: 24px;
+  padding: 18px 20px;
+  background: #f4f4f4;
+  color: #222;
+  font-size: 15px;
+  font-weight: 700;
+  text-align: center;
+}
+
+@media (max-width: 680px) {
+  .mk-pb-detail-image[src*="rank5_cortis_dice_detail"],
+  .mk-pb-detail-image[src*="rank6_cortis_blue_lips_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   NEW-1 / NEW-2 AHOF RUN TO YOU
+   ============================================================ */
+.mk-pb-detail-image[src*="new1_ahof_qr_detail"],
+.mk-pb-detail-image[src*="new2_ahof_digipack_detail"] {
+  display: block;
+  width: min(900px, 100%);
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+@media (max-width: 680px) {
+  .mk-pb-detail-image[src*="new1_ahof_qr_detail"],
+  .mk-pb-detail-image[src*="new2_ahof_digipack_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   NEW-3 AHOF PHOTOBOOK / NEW-4 VAYONN YOUTH
+   ============================================================ */
+.mk-pb-detail-image[src*="new3_ahof_photobook_detail"],
+.mk-pb-detail-image[src*="new4_vayonn_youth_detail"] {
+  display: block;
+  width: min(900px, 100%);
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+@media (max-width: 680px) {
+  .mk-pb-detail-image[src*="new3_ahof_photobook_detail"],
+  .mk-pb-detail-image[src*="new4_vayonn_youth_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   NEW-5 VAYONN TODAY / NEW-6 i-dle CROW
+   ============================================================ */
+.mk-pb-detail-image[src*="new5_vayonn_today_detail"],
+.mk-pb-detail-image[src*="new6_idle_crow_detail"] {
+  display: block;
+  width: min(900px, 100%);
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+@media (max-width: 680px) {
+  .mk-pb-detail-image[src*="new5_vayonn_today_detail"],
+  .mk-pb-detail-image[src*="new6_idle_crow_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   NEW-7 i-dle POCA / NEW-8 i-dle MONO
+   ============================================================ */
+.mk-pb-detail-image[src*="new7_idle_poca_detail"],
+.mk-pb-detail-image[src*="new8_idle_mono_detail"] {
+  display: block;
+  width: min(900px, 100%);
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+@media (max-width: 680px) {
+  .mk-pb-detail-image[src*="new7_idle_poca_detail"],
+  .mk-pb-detail-image[src*="new8_idle_mono_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   NEW-9 UAU MD / NEW-10 UAU COMPACT
+   ============================================================ */
+.mk-pb-detail-image[src*="new9_uau_md_detail"],
+.mk-pb-detail-image[src*="new10_uau_compact_detail"] {
+  display: block;
+  width: min(900px, 100%);
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+@media (max-width: 680px) {
+  .mk-pb-detail-image[src*="new9_uau_md_detail"],
+  .mk-pb-detail-image[src*="new10_uau_compact_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   NEW-11 UAU PHOTOBOOK / NEW-12 V8 KiT
+   ============================================================ */
+.mk-pb-detail-image[src*="new11_uau_photobook_detail"],
+.mk-pb-detail-image[src*="new12_v8_kit_detail"] {
+  display: block;
+  width: min(900px, 100%);
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+@media (max-width: 680px) {
+  .mk-pb-detail-image[src*="new11_uau_photobook_detail"],
+  .mk-pb-detail-image[src*="new12_v8_kit_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   NEW-13 V8 COMPACT / NEW-14 V8 RANDOM COVER
+   ============================================================ */
+.mk-pb-detail-image[src*="new13_v8_compact_detail"],
+.mk-pb-detail-image[src*="new14_v8_random_detail"] {
+  display: block;
+  width: min(900px, 100%);
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+@media (max-width: 680px) {
+  .mk-pb-detail-image[src*="new13_v8_compact_detail"],
+  .mk-pb-detail-image[src*="new14_v8_random_detail"] {
+    width: 100%;
+  }
+}
+
+
+/* ============================================================
+   NEW-15 ATEEZ Z / NEW-16 ATEEZ DIARY
+   ============================================================ */
+.mk-pb-detail-image[src*="new15_ateez_z_detail"],
+.mk-pb-detail-image[src*="new16_ateez_diary_detail"] {
+  display:block;
+  width:min(900px, 100%);
+  height:auto;
+  margin:0 auto;
+  object-fit:contain;
+}
+@media (max-width:680px) {
+  .mk-pb-detail-image[src*="new15_ateez_z_detail"],
+  .mk-pb-detail-image[src*="new16_ateez_diary_detail"] { width:100%; }
+}

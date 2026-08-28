@@ -1,0 +1,631 @@
+/* ============================================================
+   COMMON.CSS
+   공통 영역 : HEADER + FOOTER
+   (기존 header_hero.css + footer.css 통합)
+   ============================================================ */
+
+/* ============================================================
+   MUSICKOREA — HEADER + EVENT HERO / precise carousel fix
+   ============================================================ */
+* , *::before, *::after { box-sizing: border-box; }
+html, body { margin: 0; min-width: 320px; }
+body {
+  font-family: Arial, "Pretendard", "Noto Sans KR", "Malgun Gothic", sans-serif;
+  color: #000;
+  background: #fff;
+}
+a { color: inherit; text-decoration: none; }
+button, input { font: inherit; }
+button { border: 0; }
+img { display: block; }
+
+:root {
+  --content-width: 1052px;
+  --card-w: 513px;
+  --card-h: 315px;
+  --card-gap: 74px;
+  --header-h: 495px;
+  --stage-h: 565px;
+}
+
+.mk-top-stage {
+  position: relative;
+  height: var(--stage-h);
+  overflow: hidden;
+  background: #fff;
+}
+
+.mk-color-field {
+  position: absolute;
+  z-index: 0;
+  inset: 0 0 auto 0;
+  height: var(--header-h);
+  background-color: #74C7FF;
+  transition: background-color .65s cubic-bezier(.22,.82,.24,1);
+  will-change: background-color;
+}
+
+/* HEADER */
+.mk-header {
+  position: relative;
+  z-index: 10;
+  width: min(var(--content-width), calc(100vw - 48px));
+  margin: 0 auto;
+  padding-top: 31px;
+}
+.mk-header-row {
+  height: 38px;
+  display: grid;
+  grid-template-columns: 260px 1fr 260px;
+  align-items: center;
+}
+.mk-logo-link {
+  justify-self: start;
+  width: 140px;
+  height: 33px;
+  display: flex;
+  align-items: center;
+}
+.mk-logo {
+  width: 140px;
+  height: 33px;
+  object-fit: contain;
+  object-position: left center;
+}
+.mk-search {
+  justify-self: center;
+  width: 268px;
+  height: 34px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border-radius: 999px;
+  background: rgba(0,0,0,.035);
+  transition: background-color .35s ease;
+}
+.mk-search input {
+  width: 100%; height: 100%;
+  padding: 0 47px 0 17px;
+  border: 0; outline: 0;
+  background: transparent;
+  color: rgba(0,0,0,.62);
+  font-size: 10px;
+}
+.mk-search-icon {
+  position: absolute;
+  right: 13px; top: 50%;
+  width: 19px; height: 19px;
+  transform: translateY(-50%);
+}
+.mk-tools {
+  justify-self: end;
+  display: flex; align-items: center; gap: 16px;
+}
+.mk-tool {
+  width: 21px; height: 21px; padding: 0;
+  background: transparent; cursor: pointer;
+}
+.mk-tool img { width: 100%; height: 100%; }
+.mk-nav {
+  margin-top: 28px;
+  display: flex; align-items: center; gap: 51px;
+}
+.mk-nav-link {
+  display: inline-flex; align-items: center; gap: 13px;
+  white-space: nowrap;
+  font-size: 13px; line-height: 1; font-weight: 700;
+}
+.mk-nav-link img { width: 18px; height: 18px; }
+
+/* CAROUSEL
+   실제 MusicKorea 레퍼런스 기준:
+   - 데스크톱(1902px 캡처): 513px 카드 2개가 74px 간격으로 완전히 보임.
+     좌우에는 이전/다음 카드가 약 318px씩 잘려 보임.
+   - 좁은 화면(717px 캡처): 화살표 사이에 513px 카드 1개.
+     이전 카드는 왼쪽에 약 57px만 보임.
+*/
+.event-carousel {
+  position: absolute;
+  z-index: 3;
+  left: 50%;
+  top: 225px;
+  width: 1118px;
+  height: 340px;
+  transform: translateX(-50%);
+  overflow: visible;
+}
+
+.event-track {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: var(--card-h);
+  display: flex;
+  gap: var(--card-gap);
+  will-change: transform;
+  transition: transform .76s cubic-bezier(.22,.82,.24,1);
+}
+
+.event-card {
+  flex: 0 0 var(--card-w);
+  width: var(--card-w);
+  height: var(--card-h);
+  border-radius: 27px;
+  overflow: hidden;
+  cursor: pointer;
+  transform: translateZ(0);
+}
+
+.event-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.event-card.is-active {
+  cursor: default;
+}
+
+/* 실제 1902px 레퍼런스에서는 화살표가 보이지 않고,
+   717px 레퍼런스에서는 한 장짜리 레이아웃의 좌우에 표시됨. */
+.carousel-arrow {
+  position: absolute;
+  z-index: 8;
+  top: calc(var(--card-h) / 2);
+  width: 30px;
+  height: 54px;
+  padding: 0;
+  transform: translateY(-50%);
+  background: transparent;
+  cursor: pointer;
+  display: none;
+}
+
+.carousel-arrow span {
+  position: absolute;
+  top: 17px;
+  width: 18px;
+  height: 18px;
+  border-top: 1.5px solid rgba(255,255,255,.96);
+  border-right: 1.5px solid rgba(255,255,255,.96);
+}
+
+.carousel-arrow-prev span {
+  left: 8px;
+  transform: rotate(-135deg);
+}
+
+.carousel-arrow-next span {
+  right: 8px;
+  transform: rotate(45deg);
+}
+
+.event-progress {
+  position: absolute;
+  z-index: 5;
+  left: 50%;
+  top: 557px;
+  width: 180px;
+  height: 2px;
+  transform: translateX(-50%);
+  overflow: hidden;
+  background: #e7e7e7;
+}
+
+.event-progress-thumb {
+  width: 60px;
+  height: 2px;
+  background: #111;
+  transform: translateX(60px);
+  transition: transform .5s cubic-bezier(.22,.82,.24,1);
+}
+
+/* 실제 사이트의 한 장짜리 상태 */
+@media (max-width: 1200px) {
+  .event-carousel {
+    width: min(718px, 100vw);
+  }
+
+  .carousel-arrow {
+    display: block;
+  }
+
+  .carousel-arrow-prev {
+    left: 86px;
+  }
+
+  .carousel-arrow-next {
+    right: 23px;
+  }
+
+  .event-progress {
+    left: calc(50% + 29px);
+  }
+}
+
+@media (max-width: 1100px) {
+  :root { --content-width: calc(100vw - 80px); }
+  .mk-header-row { grid-template-columns: 220px 1fr 220px; }
+  .mk-nav { gap: clamp(24px, 3vw, 51px); }
+}
+
+/* Keep 513x315 card through tablet/narrow desktop, as in the reference capture. */
+@media (max-width: 650px) {
+  :root {
+    --card-w: calc(100vw - 112px);
+    --card-h: calc(var(--card-w) * .614035);
+    --card-gap: 56px;
+    --header-h: 430px;
+    --stage-h: 495px;
+    }
+  .mk-header {
+    width: calc(100vw - 32px);
+    padding-top: 20px;
+  }
+  .mk-header-row { grid-template-columns: 1fr auto; }
+  .mk-logo-link, .mk-logo { width: 116px; height: 28px; }
+  .mk-search { display: none; }
+  .mk-tools { grid-column: 2; gap: 7px; }
+  .mk-tool { width: 18px; height: 18px; }
+  .mk-nav {
+    margin-top: 22px;
+    gap: 25px;
+    overflow-x: auto;
+    padding-bottom: 5px;
+  }
+  .mk-nav-link { font-size: 12px; }
+  .event-carousel {
+    top: 190px;
+    width: 100vw;
+    height: 260px;
+    overflow: visible;
+  }
+  .carousel-arrow-prev { left: 18px; }
+  .carousel-arrow-next { right: 18px; }
+  .event-progress { top: 455px; left: 50%; }
+}
+
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+
+/* ============================================================
+   MUSICKOREA FOOTER
+   첨부된 실제 MusicKorea footer 캡처 기준
+   ============================================================ */
+
+.mk-footer-wrap {
+  background: #fff;
+  color: #111;
+}
+
+/* ---------- HANTEO STRIP ---------- */
+
+.mk-hanteo-strip {
+  min-height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  border-top: 1px solid #f1f1f1;
+}
+
+.mk-hanteo-inner {
+  width: min(1046px, calc(100% - 48px));
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  color: #606060;
+  font-size: 11px;
+  line-height: 1.35;
+}
+
+.mk-hanteo-badge {
+  flex: 0 0 auto;
+  width: 30px;
+  height: auto;
+  display: block;
+}
+
+.mk-hanteo-copy {
+  min-width: 0;
+}
+
+.mk-hanteo-copy strong {
+  color: #222;
+  font-weight: 850;
+}
+
+.mk-hanteo-number {
+  color: #ff4961;
+  font-weight: 850;
+  margin-left: 4px;
+}
+
+/* ---------- BLACK FOOTER ---------- */
+
+.mk-footer {
+  position: relative;
+  background: #050505;
+  color: #fff;
+  padding: 34px 0 42px;
+}
+
+.mk-footer-inner {
+  width: min(1046px, calc(100% - 48px));
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 250px 230px;
+  column-gap: 52px;
+  align-items: start;
+}
+
+/* LEFT */
+
+.mk-footer-links {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 12px;
+}
+
+.mk-footer-link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 10px;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.mk-footer-phone-row {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.mk-footer-phone {
+  margin: 0;
+  font-size: 20px;
+  line-height: 1;
+  font-weight: 900;
+  letter-spacing: -.6px;
+}
+
+.mk-footer-hours {
+  color: #8f8f8f;
+  font-size: 10px;
+  line-height: 1.4;
+}
+
+.mk-footer-company {
+  margin-top: 27px;
+  color: #8c8c8c;
+  font-size: 10px;
+  line-height: 1.75;
+}
+
+.mk-footer-company-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0 14px;
+}
+
+.mk-footer-company strong {
+  color: #cfcfcf;
+  font-weight: 700;
+}
+
+.mk-footer-business-check {
+  color: #d5d5d5;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.mk-footer-copyright {
+  margin-top: 4px;
+}
+
+/* RIGHT COLUMNS */
+
+.mk-footer-block + .mk-footer-block {
+  margin-top: 24px;
+}
+
+.mk-footer-block-title {
+  margin: 0 0 8px;
+  font-size: 10px;
+  line-height: 1;
+  font-weight: 900;
+}
+
+.mk-footer-block-line {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  color: #fff;
+  font-size: 10px;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+.mk-footer-pin,
+.mk-footer-phone-icon,
+.mk-footer-chat-icon {
+  width: 12px;
+  height: 12px;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+/* simple CSS pin icon */
+.mk-footer-pin::before {
+  content: "";
+  position: absolute;
+  left: 3px;
+  top: 1px;
+  width: 6px;
+  height: 8px;
+  border-radius: 6px 6px 6px 0;
+  background: #fff;
+  transform: rotate(-45deg);
+}
+
+/* simple CSS phone icon */
+.mk-footer-phone-icon::before {
+  content: "☎";
+  position: absolute;
+  inset: 0;
+  color: #fff;
+  font-size: 11px;
+  line-height: 12px;
+}
+
+/* simple CSS chat icon */
+.mk-footer-chat-icon::before {
+  content: "";
+  position: absolute;
+  left: 1px;
+  top: 2px;
+  width: 8px;
+  height: 6px;
+  border-radius: 5px;
+  background: #fff;
+}
+.mk-footer-chat-icon::after {
+  content: "";
+  position: absolute;
+  left: 3px;
+  top: 7px;
+  width: 3px;
+  height: 3px;
+  background: #fff;
+  clip-path: polygon(0 0, 100% 0, 0 100%);
+}
+
+.mk-footer-payment {
+  width: 68px;
+  height: auto;
+  margin-top: 18px;
+  display: block;
+}
+
+/* ---------- FLOATING BUTTONS ---------- */
+
+.mk-footer-float {
+  position: fixed;
+  right: 24px;
+  bottom: 122px;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+
+.mk-footer-float-button {
+  width: 37px;
+  height: 37px;
+  border-radius: 50%;
+  border: 0;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  transition: transform .18s ease, opacity .18s ease;
+}
+
+.mk-footer-float-button:hover {
+  transform: translateY(-1px);
+}
+
+.mk-footer-plus {
+  background: #fff;
+  color: #111;
+  box-shadow: 0 3px 14px rgba(0,0,0,.08);
+  font-size: 28px;
+  line-height: 1;
+  font-weight: 300;
+}
+
+.mk-footer-up {
+  background: #111;
+  color: #fff;
+  box-shadow: 0 3px 14px rgba(0,0,0,.16);
+  font-size: 19px;
+  line-height: 1;
+}
+
+/* ---------- TABLET ---------- */
+
+@media (max-width: 980px) {
+  .mk-footer-inner {
+    grid-template-columns: minmax(0, 1fr) 210px;
+    row-gap: 28px;
+  }
+
+  .mk-footer-right-last {
+    grid-column: 2;
+  }
+}
+
+/* ---------- MOBILE ---------- */
+
+@media (max-width: 720px) {
+  .mk-hanteo-inner,
+  .mk-footer-inner {
+    width: calc(100% - 30px);
+  }
+
+  .mk-hanteo-strip {
+    padding: 12px 0;
+  }
+
+  .mk-hanteo-inner {
+    align-items: flex-start;
+    font-size: 9.5px;
+  }
+
+  .mk-footer {
+    padding: 30px 0 38px;
+  }
+
+  .mk-footer-inner {
+    display: block;
+  }
+
+  .mk-footer-links {
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .mk-footer-phone {
+    font-size: 22px;
+  }
+
+  .mk-footer-hours {
+    width: 100%;
+    margin-top: 4px;
+  }
+
+  .mk-footer-company {
+    margin-top: 22px;
+  }
+
+  .mk-footer-right {
+    margin-top: 30px;
+    padding-top: 25px;
+    border-top: 1px solid #222;
+  }
+
+  .mk-footer-right-last {
+    margin-top: 24px;
+  }
+
+  .mk-footer-float {
+    right: 14px;
+    bottom: 28px;
+  }
+}
+

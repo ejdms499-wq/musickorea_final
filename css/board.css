@@ -1,0 +1,266 @@
+/* ============================================================
+   BOARD.CSS
+   MusicKorea EVENT NOTICE DETAIL
+   ============================================================ */
+
+.mk-board-page {
+  background: #fff;
+  color: #222;
+}
+
+.mk-board-header-shell {
+  background: #fff;
+}
+
+.mk-board-header-shell .mk-header {
+  min-height: 154px;
+  padding-top: 31px;
+}
+
+.mk-board-header-shell .mk-search {
+  background: #f5f5f5;
+}
+
+.mk-board {
+  padding: 52px 0 110px;
+  border-top: 1px solid #f2f2f2;
+  background: #fff;
+}
+
+.mk-board-inner {
+  width: min(1046px, calc(100% - 48px));
+  margin: 0 auto;
+}
+
+.mk-board-kicker {
+  margin-bottom: 13px;
+  color: #a0a0a0;
+  font-size: 11px;
+  line-height: 1;
+  font-weight: 600;
+}
+
+.mk-board-heading-row {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 28px;
+  padding-bottom: 22px;
+  border-bottom: 2px solid #171717;
+}
+
+.mk-board-heading {
+  margin: 0;
+  font-size: 30px;
+  line-height: 1;
+  font-weight: 800;
+  letter-spacing: -1.2px;
+}
+
+.mk-board-tabs {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+
+.mk-board-tab {
+  min-width: 88px;
+  height: 34px;
+  padding: 0 15px;
+  border-radius: 999px;
+  background: #f4f4f4;
+  color: #8b8b8b;
+  font-size: 11px;
+  font-weight: 650;
+  cursor: default;
+}
+
+.mk-board-tab.is-active {
+  background: #111;
+  color: #fff;
+}
+
+.mk-board-article {
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.mk-board-article-head {
+  padding: 28px 22px 25px;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.mk-board-category {
+  margin-bottom: 8px;
+  color: #ff3c59;
+  font-size: 11px;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.mk-board-title {
+  margin: 0;
+  color: #222;
+  font-size: 18px;
+  line-height: 1.45;
+  font-weight: 650;
+  letter-spacing: -.35px;
+}
+
+.mk-board-meta {
+  margin-top: 13px;
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  color: #999;
+  font-size: 10px;
+}
+
+.mk-board-meta-sep {
+  width: 1px;
+  height: 9px;
+  background: #ddd;
+}
+
+.mk-board-body {
+  min-height: 500px;
+  padding: 52px 0 58px;
+  text-align: center;
+}
+
+.mk-board-poster {
+  display: block;
+  width: min(900px, 100%);
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+.mk-board-actions {
+  padding: 24px 0 31px;
+  text-align: center;
+  border-top: 1px solid #eee;
+}
+
+.mk-board-list-button {
+  display: inline-flex;
+  min-width: 92px;
+  height: 38px;
+  padding: 0 22px;
+  align-items: center;
+  justify-content: center;
+  background: #111;
+  color: #fff;
+  text-decoration: none;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.mk-board-nearby {
+  margin-top: 28px;
+  border-top: 1px solid #d9d9d9;
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.mk-board-nearby-row {
+  min-height: 48px;
+  display: grid;
+  grid-template-columns: 82px 1fr;
+  align-items: center;
+  border-bottom: 1px solid #ededed;
+  font-size: 10px;
+}
+
+.mk-board-nearby-row:last-child {
+  border-bottom: 0;
+}
+
+.mk-board-nearby-label {
+  color: #777;
+  font-weight: 700;
+}
+
+.mk-board-nearby-title {
+  color: #555;
+}
+
+.mk-board-error {
+  padding: 80px 0;
+  text-align: center;
+  color: #888;
+}
+
+/* Narrow desktop / tablet */
+@media (max-width: 900px) {
+  .mk-board-heading-row {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .mk-board-poster {
+    width: min(680px, 100%);
+  }
+}
+
+/* Mobile */
+@media (max-width: 650px) {
+  .mk-board-header-shell .mk-header {
+    min-height: 128px;
+    padding-top: 20px;
+  }
+
+  .mk-board {
+    padding: 34px 0 70px;
+  }
+
+  .mk-board-inner {
+    width: calc(100% - 30px);
+  }
+
+  .mk-board-heading {
+    font-size: 25px;
+  }
+
+  .mk-board-tabs {
+    width: 100%;
+    overflow-x: auto;
+  }
+
+  .mk-board-tab {
+    flex: 0 0 auto;
+    min-width: 84px;
+  }
+
+  .mk-board-article-head {
+    padding: 22px 4px 21px;
+  }
+
+  .mk-board-title {
+    font-size: 15px;
+  }
+
+  .mk-board-body {
+    padding: 34px 0 40px;
+  }
+
+  .mk-board-poster {
+    width: 100%;
+  }
+}
+
+/* MusicKorea board-detail fidelity refinements */
+.mk-board-article-head {
+  background: #fff;
+}
+.mk-board-body {
+  background: #fff;
+  overflow: visible;
+}
+.mk-board-body img {
+  max-width: 100%;
+}
+@media (min-width: 901px) {
+  .mk-board-body {
+    padding-top: 64px;
+    padding-bottom: 70px;
+  }
+}

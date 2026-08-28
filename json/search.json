@@ -1,0 +1,50 @@
+{
+  "keyword": "[9/7예약특전]에반",
+  "pageTitle": "검색결과",
+  "total": 3,
+  "sorts": [
+    "낮은가격",
+    "높은가격",
+    "상품명",
+    "신상품"
+  ],
+  "sourceUrl": "https://www.musickorea.asia/Search/Product/result/keyword/%5B9%2F7%EC%98%88%EC%95%BD%ED%8A%B9%EC%A0%84%5D%EC%97%90%EB%B0%98",
+  "products": [
+    {
+      "id": "event-evan-full",
+      "name": "에반(EVAN) - DEATH OF ME 일반반(세트) + 위버스반 합본",
+      "notice": "뮤직코리아 예약특전 - 예약 판매 기간 내 EVAN 1st Mini Album - DEATH OF ME [EXPLOSION Ver. / NATURAL Ver.] (세트) + DEATH OF ME (Weverse Albums ver.) 세트 구매 시 포토카드 2종 1세트 + 로고 부채 1종 증정 (세트 구매 매수와 1:1)",
+      "period": "08월 10일 11:00 ~ 09월 06일 23:59",
+      "price": 53200,
+      "originalPrice": 66400,
+      "discount": 20,
+      "image": "img/search/evan_full_set_search.webp",
+      "href": "sub.html?id=event-evan-full",
+      "originalUrl": "https://www.musickorea.asia/Product/Detail/view/pid/226904/cid/637"
+    },
+    {
+      "id": "event-evan-two",
+      "name": "에반(EVAN) - DEATH OF ME [EXPLOSION Ver. / NATURAL Ver.] 2종세트",
+      "notice": "뮤직코리아 예약특전 - 예약 판매 기간 내 EVAN 1st Mini Album - DEATH OF ME [EXPLOSION Ver. / NATURAL Ver.] 세트 구매 시 포토카드 2종 1세트 증정 (세트 구매 매수와 1:1)",
+      "period": "08월 10일 11:00 ~ 09월 06일 23:59",
+      "price": 41800,
+      "originalPrice": 52200,
+      "discount": 20,
+      "image": "img/search/evan_two_set_search.webp",
+      "href": "sub.html?id=event-evan-two",
+      "originalUrl": "https://www.musickorea.asia/Product/Detail/view/pid/226900/cid/637"
+    },
+    {
+      "id": "event-evan-random",
+      "name": "에반(EVAN) - DEATH OF ME [EXPLOSION Ver. / NATURAL Ver.] 커버랜덤",
+      "notice": "뮤직코리아 예약특전 - 예약 판매 기간 내 EVAN 1st Mini Album - DEATH OF ME [EXPLOSION Ver. / NATURAL Ver.] 구매 시 포토카드 2종 중 1종 랜덤 증정 (구매 매수와 1:1)",
+      "period": "08월 10일 11:00 ~ 09월 06일 23:59",
+      "price": 20900,
+      "originalPrice": 26100,
+      "discount": 20,
+      "image": "img/search/evan_random_search.webp",
+      "href": "sub.html?id=event-evan-random",
+      "originalUrl": "https://www.musickorea.asia/Product/Detail/view/pid/226896/cid/637"
+    }
+  ]
+}

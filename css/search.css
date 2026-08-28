@@ -1,0 +1,243 @@
+/* ============================================================
+   SEARCH.CSS
+   MusicKorea 실제 검색결과 레이아웃 재현
+   ============================================================ */
+
+.mk-search-result-page {
+  background: #fff;
+  color: #333;
+}
+
+/* 기존 공통 헤더는 그대로 사용 */
+.mk-search-page-header {
+  width: min(1052px, calc(100vw - 48px));
+  min-height: 154px;
+  padding-top: 31px;
+  margin: 0 auto;
+  background: #fff;
+}
+
+.mk-search-page-header .mk-search {
+  background: #f5f5f5;
+}
+
+.mk-search-page-header + #mkSearchResultMount {
+  border-top: 1px solid #f2f2f2;
+}
+
+/* 검색 페이지 본문 */
+.mk-search-results {
+  min-height: 600px;
+  padding: 21px 0 120px;
+  background: #fff;
+}
+
+.mk-search-results-inner {
+  width: min(1280px, calc(100% - 48px));
+  margin: 0 auto;
+}
+
+/* 캡처와 동일한 SEARCH FOR 문구 */
+.mk-search-heading {
+  margin: 0;
+  color: #353535;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 26px;
+  line-height: 1.2;
+  font-weight: 800;
+  letter-spacing: -0.55px;
+}
+
+/* TOTAL 3 Items. */
+.mk-search-total {
+  margin-top: 39px;
+  color: #686868;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  line-height: 1;
+  font-weight: 400;
+}
+
+/* 실제 화면처럼 3개가 한 줄에 정확히 배치 */
+.mk-search-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  column-gap: 21px;
+  row-gap: 56px;
+  margin-top: 21px;
+}
+
+.mk-search-product {
+  position: relative;
+  display: block;
+  min-width: 0;
+  color: #111;
+  text-decoration: none;
+}
+
+/* 캡처의 회색 라운드 상품 박스 */
+.mk-search-product-image {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: 14px;
+  background: #7d818a;
+}
+
+.mk-search-product-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* 우측 상단 검정 카운트다운 pill */
+.mk-search-countdown {
+  position: absolute;
+  top: 7px;
+  right: 8px;
+  z-index: 2;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 106px;
+  height: 23px;
+  padding: 0 12px;
+  border-radius: 999px;
+  background: #252629;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  line-height: 1;
+  font-weight: 800;
+  letter-spacing: .05px;
+  box-sizing: border-box;
+}
+
+/* 상품 하단 텍스트 */
+.mk-search-product-name {
+  margin: 13px 0 0;
+  min-height: 34px;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  color: #222;
+  font-size: 11px;
+  line-height: 1.45;
+  font-weight: 500;
+  letter-spacing: -.25px;
+  word-break: keep-all;
+}
+
+.mk-search-product-notice {
+  margin: 9px 0 0;
+  min-height: 25px;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  color: #aaa;
+  font-size: 7.5px;
+  line-height: 1.45;
+  letter-spacing: -.16px;
+}
+
+.mk-search-product-period {
+  margin: 7px 0 0;
+  color: #777;
+  font-size: 8px;
+  line-height: 1.3;
+}
+
+.mk-search-product-price {
+  margin-top: 7px;
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  white-space: nowrap;
+}
+
+.mk-search-discount {
+  color: #ff3153;
+  font-size: 9px;
+  font-weight: 800;
+}
+
+.mk-search-product-price strong {
+  color: #ff3153;
+  font-size: 12px;
+  font-weight: 850;
+}
+
+.mk-search-product-price del {
+  color: #aaa;
+  font-size: 9px;
+}
+
+/* 태블릿에서도 원본 캡처처럼 3열 유지 */
+@media (max-width: 760px) {
+  .mk-search-page-header {
+    width: calc(100% - 30px);
+  }
+
+  .mk-search-results-inner {
+    width: calc(100% - 30px);
+  }
+
+  .mk-search-heading {
+    font-size: 22px;
+  }
+
+  .mk-search-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    column-gap: 12px;
+  }
+
+  .mk-search-countdown {
+    top: 6px;
+    right: 6px;
+    min-width: 0;
+    height: 21px;
+    padding: 0 9px;
+    font-size: 8px;
+  }
+
+  .mk-search-product-name {
+    font-size: 9px;
+  }
+
+  .mk-search-product-notice {
+    font-size: 6.5px;
+  }
+
+  .mk-search-product-price {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 520px) {
+  .mk-search-results {
+    padding-top: 18px;
+  }
+
+  .mk-search-heading {
+    font-size: 19px;
+  }
+
+  .mk-search-total {
+    margin-top: 30px;
+  }
+
+  .mk-search-grid {
+    grid-template-columns: 1fr;
+    row-gap: 38px;
+  }
+
+  .mk-search-countdown {
+    height: 24px;
+    padding: 0 12px;
+    font-size: 10px;
+  }
+}

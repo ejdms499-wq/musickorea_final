@@ -1,0 +1,68 @@
+{
+  "defaultIdx": 190928,
+  "items": {
+    "190928": {
+      "boardName": "eventnotice",
+      "idx": 190928,
+      "sectionTitle": "EVENT",
+      "tabs": [
+        {
+          "label": "진행중이벤트",
+          "active": true
+        },
+        {
+          "label": "종료된이벤트",
+          "active": false
+        },
+        {
+          "label": "당첨자발표",
+          "active": false
+        }
+      ],
+      "category": "진행중이벤트",
+      "title": "HYNN(박혜원) '여름결' 발매기념 대면 사인회 이벤트",
+      "author": "MusicKorea",
+      "date": "2026-08-07",
+      "hits": "3,000+",
+      "poster": "img/board/hynn_summer_event_notice.webp",
+      "sourceUrl": "https://www.musickorea.asia/Board/view/board_name/eventnotice/idx/190928",
+      "summary": {
+        "eventDate": "2026년 9월 18일(금) 20시 (KST)",
+        "applyPeriod": "2026년 8월 7일(금) 12시 ~ 8월 9일(일) 23시 59분 59초 (KST)",
+        "benefit": "본 이벤트 응모자 전원 미공개 포토카드 2종 중 1종 랜덤 증정 (구매 수량 기준)"
+      }
+    },
+    "191052": {
+      "boardName": "eventnotice",
+      "idx": 191052,
+      "sectionTitle": "EVENT",
+      "tabs": [
+        {
+          "label": "진행중이벤트",
+          "active": true
+        },
+        {
+          "label": "종료된이벤트",
+          "active": false
+        },
+        {
+          "label": "당첨자발표",
+          "active": false
+        }
+      ],
+      "category": "진행중이벤트",
+      "title": "hrtz.wav(하츠웨이브) 2nd Mini Album [The Second Wave : MOMENTUM] FAN SHOWCASE",
+      "author": "MusicKorea",
+      "date": "2026-08-27",
+      "poster": "img/board/hrtz_momentum_fan_showcase_notice.webp",
+      "sourceUrl": "https://www.musickorea.asia/Board/view/board_name/eventnotice/idx/191052",
+      "summary": {
+        "eventDate": "2026년 9월 9일 (수) 20:00 PM (KST)",
+        "place": "에스팩토리 D동 3F (서울 성동구 연무장15길 11)",
+        "applyPeriod": "2026년 8월 27일 (목) 14:00 PM ~ 2026년 9월 3일 (목) 23:59 (KST)",
+        "winnerCount": "50명 (1인 1매)",
+        "winnerAnnouncement": "2026년 9월 4일 (금) 15:00 PM (KST) 이후"
+      }
+    }
+  }
+}

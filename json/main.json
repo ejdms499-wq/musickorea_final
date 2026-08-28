@@ -1,0 +1,716 @@
+{
+  "hero": {
+    "autoplayMs": 3200,
+    "initialIndex": 1,
+    "slides": [
+      {
+        "id": "txt",
+        "title": "hrtz.wav(하츠웨이브) 2nd Mini Album [The Second Wave : MOMENTUM] FAN SHOWCASE",
+        "image": "img/banner/hrtz_momentum.webp",
+        "theme": "#74C7FF",
+        "href": "board.html?board_name=eventnotice&idx=191052",
+        "sourceUrl": "https://www.musickorea.asia/Board/view/board_name/eventnotice/idx/191052"
+      },
+      {
+        "id": "evan",
+        "title": "EVAN - DEATH OF ME",
+        "image": "img/banner/evan_death_of_me.webp",
+        "theme": "#ff2d49",
+        "href": "search.html?keyword=%5B9%2F7%EC%98%88%EC%95%BD%ED%8A%B9%EC%A0%84%5D%EC%97%90%EB%B0%98",
+        "sourceUrl": "https://www.musickorea.asia/Search/Product/result/keyword/%5B9%2F7%EC%98%88%EC%95%BD%ED%8A%B9%EC%A0%84%5D%EC%97%90%EB%B0%98"
+      },
+      {
+        "id": "hynn",
+        "title": "HYNN(박혜원) '여름결' 발매기념 대면 사인회 이벤트",
+        "image": "img/banner/hynn_summer_road.webp",
+        "theme": "#c3dddd",
+        "href": "board.html?board_name=eventnotice&idx=190928",
+        "sourceUrl": "https://www.musickorea.asia/Board/view/board_name/eventnotice/idx/190928"
+      }
+    ]
+  },
+  "eventProducts": {
+    "section": {
+      "kickerPink": "MUKO",
+      "kickerScript": "Event",
+      "titleLine1": "뮤직코리아",
+      "titleLine2": "이벤트상품",
+      "autoplayMs": 5200,
+      "initialOffsetDesktop": 206,
+      "groupSize": 3,
+      "peekPx": 50,
+      "autoplay": false
+    },
+    "items": [
+      {
+        "id": "hrtz-momentum-set",
+        "artist": "hrtz.wav",
+        "name": "[쇼케이스응모] hrtz.wav(하츠웨이브) - 미니 2집 [The Second Wave : MOMENTUM] (2종세트)",
+        "notice": "",
+        "period": "08월 27일 14:00 ~ 09월 03일 23:59",
+        "price": 38800,
+        "originalPrice": 48400,
+        "image": "img/event/hrtz_momentum_2set.webp",
+        "days": 6,
+        "countdown": "6Day 12 : 28 : 07",
+        "href": "https://www.musickorea.asia/Product/Detail/view/pid/227564/cid/1866",
+        "originalUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227564/cid/1866"
+      },
+      {
+        "id": "hrtz-momentum-evening",
+        "artist": "hrtz.wav",
+        "name": "[쇼케이스응모] hrtz.wav(하츠웨이브) - 미니 2집 [The Second Wave : MOMENTUM] (Evening Festival Ver.)",
+        "notice": "",
+        "period": "08월 27일 14:00 ~ 09월 03일 23:59",
+        "price": 19400,
+        "originalPrice": 24200,
+        "image": "img/event/hrtz_momentum_evening.webp",
+        "days": 6,
+        "countdown": "6Day 12 : 28 : 07",
+        "href": "https://www.musickorea.asia/Product/Detail/view/pid/227560/cid/1866",
+        "originalUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227560/cid/1866"
+      },
+      {
+        "id": "hrtz-momentum-day",
+        "artist": "hrtz.wav",
+        "name": "[쇼케이스응모] hrtz.wav(하츠웨이브) - 미니 2집 [The Second Wave : MOMENTUM] (Day Festival Ver.)",
+        "notice": "",
+        "period": "08월 27일 14:00 ~ 09월 03일 23:59",
+        "price": 19400,
+        "originalPrice": 24200,
+        "image": "img/event/hrtz_momentum_day.webp",
+        "days": 6,
+        "countdown": "6Day 12 : 28 : 07",
+        "href": "https://www.musickorea.asia/Product/Detail/view/pid/227556/cid/1866",
+        "originalUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227556/cid/1866"
+      },
+      {
+        "id": "evan-full",
+        "artist": "EVAN",
+        "name": "에반(EVAN) - DEATH OF ME 일반반(세트) + 위버스반 합본",
+        "notice": "뮤직코리아 예약특전 - 예약 판매 기간 내 EVAN 1st Mini Album 구매 시 특전 증정",
+        "period": "08월 10일 11:00 ~ 09월 06일 23:59",
+        "price": 53200,
+        "originalPrice": 66400,
+        "image": "img/event/evan_full_set.webp",
+        "days": 11,
+        "href": "sub.html?id=event-evan-full",
+        "originalUrl": "https://www.musickorea.asia/Product/Detail/view/pid/226903/cid/1890"
+      },
+      {
+        "id": "evan-two",
+        "artist": "EVAN",
+        "name": "에반(EVAN) - DEATH OF ME [EXPLOSION Ver. / NATURAL Ver.] 2종세트",
+        "notice": "뮤직코리아 예약특전 - 예약 판매 기간 내 EVAN 1st Mini Album 구매 시 특전 증정",
+        "period": "08월 10일 11:00 ~ 09월 06일 23:59",
+        "price": 41800,
+        "originalPrice": 52200,
+        "image": "img/event/evan_two_set.webp",
+        "days": 11,
+        "href": "sub.html?id=event-evan-two",
+        "originalUrl": "https://www.musickorea.asia/Product/Detail/view/pid/226899/cid/1890"
+      },
+      {
+        "id": "evan-random",
+        "artist": "EVAN",
+        "name": "에반(EVAN) - DEATH OF ME [EXPLOSION Ver. / NATURAL Ver.] 커버랜덤",
+        "notice": "뮤직코리아 예약특전 - 예약 판매 기간 내 EVAN 1st Mini Album 구매 시 특전 증정",
+        "period": "08월 10일 11:00 ~ 09월 06일 23:59",
+        "price": 20900,
+        "originalPrice": 26100,
+        "image": "img/event/evan_random.webp",
+        "days": 11,
+        "href": "sub.html?id=event-evan-random",
+        "originalUrl": "https://www.musickorea.asia/Product/Detail/view/pid/226895/cid/1890"
+      }
+    ]
+  },
+  "preorderProducts": {
+    "section": {
+      "title": "예약상품",
+      "columns": 4
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "제니(JENNIE) - EP [Fallen Angel] [2종세트]",
+        "price": 16500,
+        "originalPrice": 20600,
+        "discount": 20,
+        "image": "img/preorder/01_jennie_set.webp",
+        "badges": [
+          "예약",
+          "세트"
+        ],
+        "href": "sub.html?id=preorder-1",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227500/cid/637"
+      },
+      {
+        "id": 2,
+        "name": "제니(JENNIE) - EP [Fallen Angel] (Alt ver.)",
+        "price": 16500,
+        "originalPrice": 20600,
+        "discount": 20,
+        "image": "img/preorder/02_jennie_alt.webp",
+        "badges": [
+          "예약"
+        ],
+        "href": "sub.html?id=preorder-2",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227496/cid/637"
+      },
+      {
+        "id": 3,
+        "name": "제니(JENNIE) - EP [Fallen Angel]",
+        "price": 16500,
+        "originalPrice": 20600,
+        "discount": 20,
+        "image": "img/preorder/03_jennie_main.webp",
+        "badges": [
+          "예약"
+        ],
+        "href": "sub.html?id=preorder-3",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227493/cid/637"
+      },
+      {
+        "id": 4,
+        "name": "CxM (SEVENTEEN) - CxM [DOUBLE UP] LIVE PARTY DC",
+        "price": 56000,
+        "originalPrice": 75000,
+        "discount": 25,
+        "image": "img/preorder/04_cxm_double_up.webp",
+        "badges": [
+          "예약",
+          "특전"
+        ],
+        "href": "sub.html?id=preorder-4",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227489/cid/637"
+      },
+      {
+        "id": 5,
+        "name": "김하온(HAON), NOWIMYOUNG(나우아임영), JMIN - 2000 TAPE",
+        "price": 15700,
+        "originalPrice": 19600,
+        "discount": 20,
+        "image": "img/preorder/05_haon_2000_tape.webp",
+        "badges": [
+          "예약"
+        ],
+        "href": "sub.html?id=preorder-5",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227453/cid/637"
+      },
+      {
+        "id": 6,
+        "name": "JISOO - Single Album [CLICK] VINYL VER.",
+        "price": 49000,
+        "originalPrice": 63200,
+        "discount": 22,
+        "image": "img/preorder/06_jisoo_vinyl.webp",
+        "badges": [
+          "예약",
+          "LP"
+        ],
+        "href": "sub.html?id=preorder-6",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227448/cid/637"
+      },
+      {
+        "id": 7,
+        "name": "JISOO - Single Album [CLICK] CLICK BABY BEAR NFC VER.",
+        "price": 42000,
+        "originalPrice": 54700,
+        "discount": 23,
+        "image": "img/preorder/07_jisoo_nfc.webp",
+        "badges": [
+          "예약"
+        ],
+        "href": "sub.html?id=preorder-7",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227444/cid/637"
+      },
+      {
+        "id": 8,
+        "name": "JISOO - Single Album [CLICK] PHOTOBOOK VER.",
+        "price": 18000,
+        "originalPrice": 22700,
+        "discount": 21,
+        "image": "img/preorder/08_jisoo_photobook.webp",
+        "badges": [
+          "예약"
+        ],
+        "href": "sub.html?id=preorder-8",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227441/cid/637"
+      },
+      {
+        "id": 9,
+        "name": "도경수(D.O) - DOPAMINE – The 4th Mini Album (POP ver.)",
+        "price": 17900,
+        "originalPrice": 22300,
+        "discount": 20,
+        "image": "img/preorder/09_do_pop.webp",
+        "badges": [
+          "예약"
+        ],
+        "href": "sub.html?id=preorder-9",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227432/cid/637"
+      },
+      {
+        "id": 10,
+        "name": "도경수(D.O) - DOPAMINE – The 4th Mini Album (FIZZ ver.)",
+        "price": 17900,
+        "originalPrice": 22300,
+        "discount": 20,
+        "image": "img/preorder/10_do_fizz.webp",
+        "badges": [
+          "예약"
+        ],
+        "href": "sub.html?id=preorder-10",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227429/cid/637"
+      },
+      {
+        "id": 11,
+        "name": "MW:MEU(뮤) - 미니 1집 With U (Jewel Case ver.) 6종세트",
+        "price": 85200,
+        "originalPrice": 106200,
+        "discount": 20,
+        "image": "img/preorder/11_mwmeu_jewel_set.webp",
+        "badges": [
+          "예약",
+          "세트"
+        ],
+        "href": "sub.html?id=preorder-11",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227424/cid/637"
+      },
+      {
+        "id": 12,
+        "name": "MW:MEU(뮤) - 미니 1집 With U (Jewel Case ver.) 커버랜덤",
+        "price": 14200,
+        "originalPrice": 17700,
+        "discount": 20,
+        "image": "img/preorder/12_mwmeu_jewel_random.webp",
+        "badges": [
+          "예약"
+        ],
+        "href": "sub.html?id=preorder-12",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227420/cid/"
+      },
+      {
+        "id": 13,
+        "name": "MW:MEU(뮤) - 미니 1집 With U (Photobook 2종세트)",
+        "price": 35800,
+        "originalPrice": 44600,
+        "discount": 20,
+        "image": "img/preorder/13_mwmeu_photobook_set.webp",
+        "badges": [
+          "예약",
+          "세트"
+        ],
+        "href": "sub.html?id=preorder-13",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227416/cid/"
+      },
+      {
+        "id": 14,
+        "name": "소연(SOYEON) - 정규 [끝내주는 인생] (절 ver.) [한정반]",
+        "price": 39500,
+        "originalPrice": 49300,
+        "discount": 20,
+        "image": "img/preorder/14_soyeon_jeol.webp",
+        "badges": [
+          "예약",
+          "포스터",
+          "한정판"
+        ],
+        "href": "sub.html?id=preorder-14",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227516/cid/637"
+      },
+      {
+        "id": 15,
+        "name": "소연(SOYEON) - 정규 [끝내주는 인생] (섬 ver.)",
+        "price": 13400,
+        "originalPrice": 16800,
+        "discount": 20,
+        "image": "img/preorder/15_soyeon_seom.webp",
+        "badges": [
+          "예약",
+          "포스터"
+        ],
+        "href": "sub.html?id=preorder-15",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227512/cid/637"
+      },
+      {
+        "id": 16,
+        "name": "소연(SOYEON) - 정규 [끝내주는 인생] (집 ver.)",
+        "price": 19400,
+        "originalPrice": 24200,
+        "discount": 20,
+        "image": "img/preorder/16_soyeon_jip.webp",
+        "badges": [
+          "예약",
+          "포스터"
+        ],
+        "href": "sub.html?id=preorder-16",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/227509/cid/637"
+      }
+    ]
+  },
+  "rankProducts": {
+    "section": {
+      "kickerPink": "MUKO",
+      "kickerScript": "Rank",
+      "titleLine1": "뮤직코리아",
+      "titleLine2": "인기 판매순위"
+    },
+    "items": [
+      {
+        "rank": 1,
+        "name": "연준 - NO LABELS: PART 02 (Compact Ver.) [커버랜덤]",
+        "image": "img/rank/rank1_yeonjun_compact.webp",
+        "href": "sub.html?id=rank-1",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224556/cid/879"
+      },
+      {
+        "rank": 2,
+        "name": "BOYNEXTDOOR - 1st Studio Album [HOME] (POCKET HOME ver.) 멤버랜덤",
+        "image": "img/rank/rank2_boynextdoor.webp",
+        "href": "sub.html?id=rank-2",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224765/cid/879"
+      },
+      {
+        "rank": 3,
+        "name": "CORTIS - The 2nd EP GREENGREEN (Vinyl)",
+        "image": "img/rank/rank3_cortis_vinyl.webp",
+        "href": "sub.html?id=rank-3",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/221804/cid/879"
+      },
+      {
+        "rank": 4,
+        "name": "연준 - NO LABELS: PART 02 [커버랜덤]",
+        "image": "img/rank/rank4_yeonjun_cover.webp",
+        "href": "sub.html?id=rank-4",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224548/cid/879"
+      },
+      {
+        "rank": 5,
+        "name": "CORTIS - The 2nd EP [GREENGREEN] (Dice ver.)",
+        "image": "img/rank/rank5_cortis_dice.webp",
+        "href": "sub.html?id=rank-5",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/221820/cid/879"
+      },
+      {
+        "rank": 6,
+        "name": "CORTIS - The 2nd EP [GREENGREEN] ('Blue Lips' Lip Balm ver.)",
+        "image": "img/rank/rank6_cortis_lipbalm.webp",
+        "href": "sub.html?id=rank-6",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224176/cid/879"
+      }
+    ]
+  },
+  "newProducts": {
+    "section": {
+      "title": "신규상품",
+      "columns": 4
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "AHOF(아홉) - 미니 3집 [RUN TO YOU] (QR ALBUM Ver.)",
+        "price": 7400,
+        "originalPrice": 9200,
+        "discount": 20,
+        "image": "img/new_products/01_ahof_qr.webp",
+        "href": "sub.html?id=new-1",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224832/cid/879"
+      },
+      {
+        "id": 2,
+        "name": "AHOF(아홉) - 미니 3집 [RUN TO YOU] (DIGIPACK Ver.) 커버랜덤",
+        "price": 14200,
+        "originalPrice": 17700,
+        "discount": 20,
+        "image": "img/new_products/02_ahof_digipack.webp",
+        "href": "sub.html?id=new-2",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224824/cid/879"
+      },
+      {
+        "id": 3,
+        "name": "AHOF(아홉) - 미니 3집 [RUN TO YOU] (PHOTOBOOK Ver.) 커버랜덤",
+        "price": 18600,
+        "originalPrice": 23300,
+        "discount": 20,
+        "image": "img/new_products/03_ahof_photobook.webp",
+        "href": "sub.html?id=new-3",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224816/cid/879"
+      },
+      {
+        "id": 4,
+        "name": "VAYONN(베이온) - 1ST EP 'Youth Today' (Youth Ver.)",
+        "price": 9000,
+        "originalPrice": 11300,
+        "discount": 20,
+        "image": "img/new_products/04_vayonn_youth.webp",
+        "href": "sub.html?id=new-4",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224716/cid/879"
+      },
+      {
+        "id": 5,
+        "name": "VAYONN(베이온) - 1ST EP 'Youth Today' (Today Ver.) 커버랜덤",
+        "price": 29700,
+        "originalPrice": 37200,
+        "discount": 20,
+        "image": "img/new_products/05_vayonn_today.webp",
+        "href": "sub.html?id=new-5",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224708/cid/879"
+      },
+      {
+        "id": 6,
+        "name": "i-dle(아이들) - 미니 9집 [We made] (Crow Ver.)",
+        "price": 20900,
+        "originalPrice": 26100,
+        "discount": 20,
+        "image": "img/new_products/06_idle_crow.webp",
+        "href": "sub.html?id=new-6",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224400/cid/879"
+      },
+      {
+        "id": 7,
+        "name": "i-dle(아이들) - 미니 9집 [We made] (POCAALBUM Ver.)",
+        "price": 13400,
+        "originalPrice": 16800,
+        "discount": 20,
+        "image": "img/new_products/07_idle_poca.webp",
+        "href": "sub.html?id=new-7",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224408/cid/879"
+      },
+      {
+        "id": 8,
+        "name": "i-dle(아이들) - 미니 9집 [We made] (Mono Ver.)",
+        "price": 19400,
+        "originalPrice": 24200,
+        "discount": 20,
+        "image": "img/new_products/08_idle_mono.webp",
+        "href": "sub.html?id=new-8",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224396/cid/879"
+      },
+      {
+        "id": 9,
+        "name": "유아유(UAU) - 미니 앨범 2집 Playlist #Your Youth [MD VER.] (한정반)",
+        "price": 20900,
+        "originalPrice": 26100,
+        "discount": 20,
+        "image": "img/new_products/09_uau_md.webp",
+        "href": "sub.html?id=new-9",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224476/cid/879"
+      },
+      {
+        "id": 10,
+        "name": "유아유(UAU) - 미니 앨범 2집 Playlist #Your Youth [COMPACT VER.] (Your ver., Youth ver.)",
+        "price": 13400,
+        "originalPrice": 16800,
+        "discount": 20,
+        "image": "img/new_products/10_uau_compact.webp",
+        "href": "sub.html?id=new-10",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224472/cid/879"
+      },
+      {
+        "id": 11,
+        "name": "유아유(UAU) - 미니 앨범 2집 Playlist #Your Youth [PHOTOBOOK VER.]",
+        "price": 18600,
+        "originalPrice": 23300,
+        "discount": 20,
+        "image": "img/new_products/11_uau_photobook.webp",
+        "href": "sub.html?id=new-11",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224468/cid/879"
+      },
+      {
+        "id": 12,
+        "name": "V8(SEVENTEEN) - 1st Mini Album 'V8' KiT Ver.",
+        "price": 23700,
+        "originalPrice": 29600,
+        "discount": 20,
+        "image": "img/new_products/12_v8_kit.webp",
+        "href": "sub.html?id=new-12",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224393/cid/879"
+      },
+      {
+        "id": 13,
+        "name": "V8(SEVENTEEN) - 1st Mini Album 'V8' Compact Ver.",
+        "price": 12700,
+        "originalPrice": 15800,
+        "discount": 20,
+        "image": "img/new_products/13_v8_compact.webp",
+        "href": "sub.html?id=new-13",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224381/cid/879"
+      },
+      {
+        "id": 14,
+        "name": "V8(SEVENTEEN) - 1st Mini Album 'V8' [커버랜덤]",
+        "price": 20900,
+        "originalPrice": 26100,
+        "discount": 20,
+        "image": "img/new_products/14_v8_random.webp",
+        "href": "sub.html?id=new-14",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224373/cid/879"
+      },
+      {
+        "id": 15,
+        "name": "ATEEZ(에이티즈) - GOLDEN HOUR : Part.5 [Z Ver.]",
+        "price": 18600,
+        "originalPrice": 23300,
+        "discount": 20,
+        "image": "img/new_products/15_ateez_z.webp",
+        "href": "sub.html?id=new-15",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224272/cid/879"
+      },
+      {
+        "id": 16,
+        "name": "ATEEZ(에이티즈) - GOLDEN HOUR : Part.5 [Diary Ver.]",
+        "price": 18600,
+        "originalPrice": 23300,
+        "discount": 20,
+        "image": "img/new_products/16_ateez_diary.webp",
+        "href": "sub.html?id=new-16",
+        "sourceUrl": "https://www.musickorea.asia/Product/Detail/view/pid/224268/cid/879"
+      }
+    ]
+  },
+  "genreMusic": {
+    "section": {
+      "title": "장르별 추천음악",
+      "tabs": [
+        {
+          "label": "국내",
+          "active": true
+        },
+        {
+          "label": "해외",
+          "active": false
+        }
+      ]
+    },
+    "genres": [
+      {
+        "id": "kpop",
+        "banner": "img/genre/kpop_banner.webp",
+        "items": [
+          {
+            "name": "BLACKPINK - 3rd MINI ALBUM [DEADLINE] MOOD LIGHT Ver.",
+            "price": 59400,
+            "originalPrice": 74300,
+            "image": "img/genre/kpop_1.webp",
+            "href": "sub.html?id=genre-kpop-1"
+          },
+          {
+            "name": "스트레이 키즈(Stray Kids) - SKZ IT TAPE 'DO IT'(EVIL SKZOO SPEA...",
+            "price": 99600,
+            "originalPrice": 124500,
+            "image": "img/genre/kpop_2.webp",
+            "href": "sub.html?id=genre-kpop-2"
+          },
+          {
+            "name": "TWICE - TEN: The Story Goes On (Party lovely ver.)",
+            "price": 37200,
+            "originalPrice": 46500,
+            "image": "img/genre/kpop_3.webp",
+            "href": "sub.html?id=genre-kpop-3"
+          },
+          {
+            "name": "아이유 - EP '꽃갈피 셋' CDP ver.",
+            "price": 89100,
+            "originalPrice": 111400,
+            "image": "img/genre/kpop_4.webp",
+            "href": "sub.html?id=genre-kpop-4"
+          },
+          {
+            "name": "엔시티 위시(NCT WISH) - 싱글 [WISH] (WICHU Ver.)(스마트앨범)",
+            "price": 29700,
+            "originalPrice": 37200,
+            "image": "img/genre/kpop_5.webp",
+            "href": "sub.html?id=genre-kpop-5"
+          }
+        ],
+        "href": "sub.html?id=genre-kpop-banner"
+      },
+      {
+        "id": "hiphop",
+        "banner": "img/genre/hiphop_banner.webp",
+        "items": [
+          {
+            "name": "Rosy Barbie - Barbie World",
+            "price": 18600,
+            "originalPrice": 23300,
+            "image": "img/genre/hiphop_1.webp",
+            "href": "sub.html?id=genre-hiphop-1"
+          },
+          {
+            "name": "트레이드 엘(TRADE L) - AURORA",
+            "price": 16500,
+            "originalPrice": 20600,
+            "image": "img/genre/hiphop_2.webp",
+            "href": "sub.html?id=genre-hiphop-2"
+          },
+          {
+            "name": "블라세(BLASÉ) - 정규 [BLASÉ 2]",
+            "price": 15000,
+            "originalPrice": 18700,
+            "image": "img/genre/hiphop_3.webp",
+            "href": "sub.html?id=genre-hiphop-3"
+          },
+          {
+            "name": "BILL STAX(빌스택스) - LIVE FAST DIE SKRT (카세트테이프)",
+            "price": 42000,
+            "originalPrice": 53000,
+            "image": "img/genre/hiphop_4.webp",
+            "href": "sub.html?id=genre-hiphop-4"
+          },
+          {
+            "name": "pH-1, 릴보이 (lIlBOI), Woodie Gochild, BIG Naughty(서동현) - HIGH...",
+            "price": 17900,
+            "originalPrice": 22300,
+            "image": "img/genre/hiphop_5.webp",
+            "href": "sub.html?id=genre-hiphop-5"
+          }
+        ],
+        "href": "sub.html?id=genre-hiphop-banner"
+      },
+      {
+        "id": "ost",
+        "banner": "img/genre/ost_banner.webp",
+        "items": [
+          {
+            "name": "O.S.T. - 모두가 자신의 무가치함과 싸우고 있다",
+            "price": 21600,
+            "originalPrice": 27000,
+            "image": "img/genre/ost_1.webp",
+            "href": "sub.html?id=genre-ost-1"
+          },
+          {
+            "name": "O.S.T. - 와일드 씽",
+            "price": 19900,
+            "originalPrice": 26000,
+            "image": "img/genre/ost_2.webp",
+            "href": "sub.html?id=genre-ost-2"
+          },
+          {
+            "name": "O.S.T. - 오늘도 매진했습니다",
+            "price": 29500,
+            "originalPrice": 36900,
+            "image": "img/genre/ost_3.webp",
+            "href": "sub.html?id=genre-ost-3"
+          },
+          {
+            "name": "O.S.T. - 선재 업고 튀어",
+            "price": 43100,
+            "originalPrice": 53900,
+            "image": "img/genre/ost_4.webp",
+            "href": "sub.html?id=genre-ost-4"
+          },
+          {
+            "name": "O.S.T. - 우주메리미",
+            "price": 25300,
+            "originalPrice": 31600,
+            "image": "img/genre/ost_5.webp",
+            "href": "sub.html?id=genre-ost-5"
+          }
+        ],
+        "href": "sub.html?id=genre-ost-banner"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "header": {
+    "searchPlaceholder": "방탄소년단",
+    "nav": [
+      {
+        "label": "전체상품",
+        "menuIcon": true
+      },
+      {
+        "label": "예약상품"
+      },
+      {
+        "label": "국내상품"
+      },
+      {
+        "label": "해외상품"
+      },
+      {
+        "label": "LP/VINYL"
+      },
+      {
+        "label": "SALE"
+      },
+      {
+        "label": "EVENT"
+      }
+    ]
+  },
+  "footer": {
+    "hanteo": {
+      "prefix": "뮤직 코리아는 2026년 한터패밀리로, 구매 시 한터차트에 정확히 반영됩니다.",
+      "label": "2026 HANTEO FAMILY NO.",
+      "number": "HF1082MKO001",
+      "badge": "img/footer/hanteo_badge.webp"
+    },
+    "links": [
+      {
+        "label": "이용안내",
+        "href": "#"
+      },
+      {
+        "label": "개인정보처리방침",
+        "href": "#"
+      },
+      {
+        "label": "이용약관",
+        "href": "#"
+      }
+    ],
+    "customer": {
+      "phone": "031-946-8210",
+      "hours": "평일 09:00 ~ 18:00",
+      "lunch": "점심 11:30 ~ 13:00",
+      "closed": "토요일/일요일/공휴일 휴무"
+    },
+    "company": {
+      "name": "뮤직코리아",
+      "address": "경기도 파주시 오도로99",
+      "representative": "대표 진경주",
+      "businessNumber": "사업자번호 : 141-81-20515",
+      "businessCheck": "사업자정보 확인",
+      "mailOrder": "통신판매번호 : 2010-경기파주-2554",
+      "privacyOfficer": "개인정보 보호 책임자 : 박찬수",
+      "email": "woo680821@naver.com",
+      "copyright": "Copyright © 2014 Music Korea All rights reserved."
+    },
+    "right": {
+      "offlineTitle": "OFFLINE STORE",
+      "offline": "뮤직코리아 명동 2호점",
+      "wholesaleTitle": "도매문의",
+      "wholesale": "카카오톡 ID : chansoo10",
+      "csTitle": "CS문의",
+      "cs": "cscenter@musickorea.com",
+      "paymentBadges": "img/footer/payment_badges.webp"
+    }
+  }
+}

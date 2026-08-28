@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MusicKorea 상품 상세</title>
+
+  <link rel="stylesheet" href="css/common.css">
+  <link rel="stylesheet" href="css/sub.css">
+</head>
+<body>
+
+  <div class="mk-sub-header-shell">
+    <header class="mk-header">
+      <div class="mk-header-row">
+        <a href="index.html" class="mk-logo-link" aria-label="MusicKorea 홈">
+          <img class="mk-logo" src="img/logo/musickorea_logo.webp" alt="MusicKorea">
+        </a>
+
+        <label class="mk-search">
+          <input id="mkSearchInput" type="text" aria-label="상품 검색">
+          <img class="mk-search-icon" src="img/icon/search.svg" alt="">
+        </label>
+
+        <nav class="mk-tools" aria-label="사용자 메뉴">
+          <button class="mk-tool" type="button" aria-label="마이페이지">
+            <img src="img/icon/user.svg" alt="">
+          </button>
+          <button class="mk-tool" type="button" aria-label="장바구니">
+            <img src="img/icon/bag.svg" alt="">
+          </button>
+          <button class="mk-tool" type="button" aria-label="안내">
+            <img src="img/icon/info.svg" alt="">
+          </button>
+        </nav>
+      </div>
+
+      <nav id="mkNav" class="mk-nav" aria-label="주 메뉴"></nav>
+    </header>
+  </div>
+
+  <main id="mkSubMain" class="mk-detail-page">
+    <div id="subPageMount"></div>
+  </main>
+
+  <div id="mkFooterMount"></div>
+
+  <script src="js/common.js"></script>
+  <script src="js/sub.js"></script>
+</body>
+</html>
